@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> should render and match the snapshot 1`] = `
+<BrowserRouter>
+  <Helmet
+    defaultTitle="Slovakia bunkers"
+    defer={true}
+    encodeSpecialCharacters={true}
+    htmlAttributes={
+      Object {
+        "lang": "en-US",
+      }
+    }
+    prioritizeSeoTags={false}
+    titleTemplate="%s - Slovakia bunkers"
+  >
+    <meta
+      content="An interactive map of bunkers in Slovakia"
+      name="description"
+    />
+  </Helmet>
+  <Switch>
+    <Route
+      component={[Function]}
+      exact={true}
+      path="/"
+    />
+    <Route
+      component={[Function]}
+    />
+  </Switch>
+  <Memo(l) />
+</BrowserRouter>
+`;

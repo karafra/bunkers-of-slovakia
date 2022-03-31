@@ -1,0 +1,4433 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.20196666666667, 48.06521666666665, 0]
+    },
+    "properties": {
+      "name": "III/97/B1-90",
+      "description": "Poloha: N 48° 3.913' E 19° 12.118'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.44931666666667, 48.10138333333333, 0]
+    },
+    "properties": {
+      "name": "V/156/A-140",
+      "description": "Poloha: N 48° 6.083' E 19° 26.959'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.84638333333333, 48.21065, 0]
+    },
+    "properties": {
+      "name": "VII/258/A-180",
+      "description": "Poloha: N 48° 12.639' E 19° 50.783'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.7725, 47.82278333333333, 0]
+    },
+    "properties": {
+      "name": "VIII/46/D2Z",
+      "description": "Poloha: N 47° 49.367' E 18° 46.350'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.99103333333333, 48.13635, 0]
+    },
+    "properties": {
+      "name": "XII/465/A-160",
+      "description": "Poloha: N 48° 8.181' E 18° 59.462'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.00743333333334, 48.13803333333333, 0]
+    },
+    "properties": {
+      "name": "XII/470/A-120",
+      "description": "Poloha: N 48° 8.282' E 19° 0.446'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.00293333333334, 48.13621666666667, 0]
+    },
+    "properties": {
+      "name": "XII/471/A-120",
+      "description": "Poloha: N 48° 8.173' E 19° 0.176'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.39113333333333, 48.2365, 0]
+    },
+    "properties": {
+      "name": "XVI/672/A-160Z",
+      "description": "Poloha: N 48° 14.190' E 19° 23.468'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.38618333333334, 48.23413333333333, 0]
+    },
+    "properties": {
+      "name": "XVI/674/A-180",
+      "description": "Poloha: N 48° 14.048' E 19° 23.171'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.38163333333333, 48.23346666666668, 0]
+    },
+    "properties": {
+      "name": "XVI/676/A-180",
+      "description": "Poloha: N 48° 14.008' E 19° 22.898'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.37971666666667, 48.23341666666666, 0]
+    },
+    "properties": {
+      "name": "XVI/678/A-140",
+      "description": "Poloha: N 48° 14.005' E 19° 22.783'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.37371666666667, 48.23241666666667, 0]
+    },
+    "properties": {
+      "name": "XVI/680/A-120",
+      "description": "Poloha: N 48° 13.945' E 19° 22.423'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.39473333333334, 48.23586666666666, 0]
+    },
+    "properties": {
+      "name": "XVI/681/A-160Z",
+      "description": "Poloha: N 48° 14.152' E 19° 23.684'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.37063333333333, 48.23031666666667, 0]
+    },
+    "properties": {
+      "name": "XVI/682/A-140",
+      "description": "Poloha: N 48° 13.819' E 19° 22.238'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.39085, 48.23426666666667, 0]
+    },
+    "properties": {
+      "name": "XVI/683/A-160Z",
+      "description": "Poloha: N 48° 14.056' E 19° 23.451'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.38543333333334, 48.23303333333333, 0]
+    },
+    "properties": {
+      "name": "XVI/685/A-160",
+      "description": "Poloha: N 48° 13.982' E 19° 23.126'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.38228333333333, 48.23196666666668, 0]
+    },
+    "properties": {
+      "name": "XVI/687/A-140Z",
+      "description": "Poloha: N 48° 13.918' E 19° 22.937'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.36218333333333, 48.22798333333333, 0]
+    },
+    "properties": {
+      "name": "XVI/688/A-140",
+      "description": "Poloha: N 48° 13.679' E 19° 21.731'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.37941666666667, 48.23061666666667, 0]
+    },
+    "properties": {
+      "name": "XVI/689/A-140Z",
+      "description": "Poloha: N 48° 13.837' E 19° 22.765'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.37591666666667, 48.22839999999999, 0]
+    },
+    "properties": {
+      "name": "XVI/691/A-180Z",
+      "description": "Poloha: N 48° 13.704' E 19° 22.555'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.36033333333333, 48.22758333333334, 0]
+    },
+    "properties": {
+      "name": "XVI/692/A-120",
+      "description": "Poloha: N 48° 13.655' E 19° 21.620'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.37143333333333, 48.22746666666667, 0]
+    },
+    "properties": {
+      "name": "XVI/693/A-180",
+      "description": "Poloha: N 48° 13.648' E 19° 22.286'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.35916666666667, 48.22785, 0]
+    },
+    "properties": {
+      "name": "XVI/694/D1",
+      "description": "Poloha: N 48° 13.671' E 19° 21.550'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.36908333333333, 48.2274, 0]
+    },
+    "properties": {
+      "name": "XVI/695/A-160",
+      "description": "Poloha: N 48° 13.644' E  19° 22.145'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.35865, 48.22716666666666, 0]
+    },
+    "properties": {
+      "name": "XVI/696/A-140",
+      "description": "Poloha: N 48° 13.630' E 19° 21.519'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.35638333333333, 48.22588333333334, 0]
+    },
+    "properties": {
+      "name": "XVI/698/A-140",
+      "description": "Poloha: N 48° 13.553' E 19° 21.383'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.35523333333333, 48.22488333333332, 0]
+    },
+    "properties": {
+      "name": "XVI/700/A-180",
+      "description": "Poloha: N 48° 13.493' E 19° 21.314'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.36133333333333, 48.22673333333334, 0]
+    },
+    "properties": {
+      "name": "XVI/701/A-120",
+      "description": "Poloha: N 48° 13.604' E 19° 21.680'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.35971666666667, 48.22578333333333, 0]
+    },
+    "properties": {
+      "name": "XVI/703/A-140",
+      "description": "Poloha: N 48° 13.547' E 19° 21.583'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.35033333333333, 48.22363333333333, 0]
+    },
+    "properties": {
+      "name": "XVI/704/A-160",
+      "description": "Poloha: N 48° 13.418' E 19° 21.020'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.35546666666667, 48.22423333333333, 0]
+    },
+    "properties": {
+      "name": "XVI/705/A-140",
+      "description": "Poloha: N 48° 13.454' E 19° 21.328'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.3479, 48.22346666666667, 0]
+    },
+    "properties": {
+      "name": "XVI/706/A-140",
+      "description": "Poloha: N 48° 13.408' E 19° 20.874'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.35318333333333, 48.22288333333334, 0]
+    },
+    "properties": {
+      "name": "XVI/707/A-180",
+      "description": "Poloha: N 48° 13.373' E 19° 21.191'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.34168333333333, 48.22276666666668, 0]
+    },
+    "properties": {
+      "name": "XVI/710/A-120Z",
+      "description": "Poloha: N 48° 13.366' E 19° 20.501'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.33755, 48.22386666666667, 0]
+    },
+    "properties": {
+      "name": "XVI/712/A-140",
+      "description": "Poloha: N 48° 13.432' E 19° 20.253'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.33375, 48.22373333333334, 0]
+    },
+    "properties": {
+      "name": "XVI/714/A-160",
+      "description": "Poloha: N 48° 13.424' E 19° 20.025'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.34108333333333, 48.22108333333333, 0]
+    },
+    "properties": {
+      "name": "XVI/715/A-140",
+      "description": "Poloha: N 48° 13.265' E 19° 20.465'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.32843333333333, 48.22461666666667, 0]
+    },
+    "properties": {
+      "name": "XVI/716/A-140",
+      "description": "Poloha: N 48° 13.477' E 19° 19.706'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.33361666666667, 48.22200000000001, 0]
+    },
+    "properties": {
+      "name": "XVI/719/A-160Z",
+      "description": "Poloha: N 48° 13.320' E 19° 20.017'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.5412, 48.28903333333335, 0]
+    },
+    "properties": {
+      "name": "XVII/601/A-140",
+      "description": "Poloha:  N 48° 17.342' E 19° 32.472'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.53891666666667, 48.2896, 0]
+    },
+    "properties": {
+      "name": "XVII/602/A-160",
+      "description": "Poloha: N 48° 17.376' E 19° 32.335'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.53736666666667, 48.28693333333334, 0]
+    },
+    "properties": {
+      "name": "XVII/603/B2-80",
+      "description": "Poloha: N 48° 17.216' E 19° 32.242'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.53605, 48.28876666666667, 0]
+    },
+    "properties": {
+      "name": "XVII/604/A-140",
+      "description": "Poloha: N 48° 17.326' E 19° 32.163'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.53493333333334, 48.28591666666666, 0]
+    },
+    "properties": {
+      "name": "XVII/605/A-140Z",
+      "description": "Poloha: N 48° 17.155' E 19° 32.096'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.53181666666667, 48.28638333333333, 0]
+    },
+    "properties": {
+      "name": "XVII/606/D2",
+      "description": "Poloha: N 48° 17.183' E 19° 31.909'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.53256666666667, 48.28439999999999, 0]
+    },
+    "properties": {
+      "name": "XVII/607/A-140Z",
+      "description": "Poloha: N 48° 17.064' E 19° 31.954'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.5315, 48.28561666666667, 0]
+    },
+    "properties": {
+      "name": "XVII/608/A-140Z",
+      "description": "Poloha: N 48° 17.137' E 19° 31.890'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.52865, 48.28391666666667, 0]
+    },
+    "properties": {
+      "name": "XVII/609/A-140",
+      "description": "Poloha: N 48° 17.035' E 19° 31.719'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.529, 48.28596666666667, 0]
+    },
+    "properties": {
+      "name": "XVII/610/E",
+      "description": "Poloha: N 48° 17.158' E 19° 31.740'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.52451666666667, 48.28183333333333, 0]
+    },
+    "properties": {
+      "name": "XVII/611/A-180",
+      "description": "Poloha: N 48° 16.910' E 19° 31.471'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [19.5252, 48.28405, 0] },
+    "properties": {
+      "name": "XVII/612/E",
+      "description": "Poloha: N 48° 17.043' E 19° 31.512'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.51781666666667, 48.28151666666667, 0]
+    },
+    "properties": {
+      "name": "XVII/613/A-180",
+      "description": "Poloha: N 48° 16.891' E 19° 31.069'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.52275, 48.28321666666668, 0]
+    },
+    "properties": {
+      "name": "XVII/614/B1-90",
+      "description": "Poloha: N 48° 16.993'S E 19° 31.365'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.51181666666667, 48.28041666666667, 0]
+    },
+    "properties": {
+      "name": "XVII/615/A-140Z",
+      "description": "Poloha: N 48° 16.825' E 19° 30.709'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [19.51915, 48.2853, 0] },
+    "properties": {
+      "name": "XVII/616/A-160",
+      "description": "Poloha: N 48° 17.118' E 19° 31.149'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.50938333333333, 48.27961666666667, 0]
+    },
+    "properties": {
+      "name": "XVII/617/A-140",
+      "description": "Poloha: N 48° 16.777' E 19° 30.563'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.51183333333333, 48.28341666666667, 0]
+    },
+    "properties": {
+      "name": "XVII/618/A-140",
+      "description": "Poloha: N 48° 17.005' E 19° 30.710'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.50733333333333, 48.28148333333334, 0]
+    },
+    "properties": {
+      "name": "XVII/620/A-120",
+      "description": "Poloha: N 48° 16.889' E 19° 30.440'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.50138333333333, 48.27521666666666, 0]
+    },
+    "properties": {
+      "name": "XVII/621/A-140Z",
+      "description": "Poloha: N 48° 16.513' E 19° 30.083'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.49923333333333, 48.27576666666668, 0]
+    },
+    "properties": {
+      "name": "XVII/622/A-140Z",
+      "description": "Poloha: N 48° 16.546' E 19° 29.954'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.49686666666667, 48.27233333333334, 0]
+    },
+    "properties": {
+      "name": "XVII/623/A-160Z",
+      "description": "Poloha: N 48° 16.340' E 19° 29.812'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.49503333333333, 48.27436666666667, 0]
+    },
+    "properties": {
+      "name": "XVII/624/B1-90Z",
+      "description": "Poloha: N 48° 16.462' E 19° 29.702'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.49101666666667, 48.27116666666667, 0]
+    },
+    "properties": {
+      "name": "XVII/626/A-180Z",
+      "description": "Poloha: N 48° 16.270' E 19° 29.461'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.4814, 48.26701666666666, 0]
+    },
+    "properties": {
+      "name": "XVII/627/A-160",
+      "description": "Poloha: N 48° 16.021' E 19° 28.884'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.48538333333334, 48.27091666666667, 0]
+    },
+    "properties": {
+      "name": "XVII/628/A-140Z",
+      "description": "Poloha: N 48° 16.255' E 19° 29.123'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.47833333333333, 48.2668, 0]
+    },
+    "properties": {
+      "name": "XVII/629/A-140",
+      "description": "Poloha: N 48° 16.008' E 19° 28.700'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.48063333333333, 48.27046666666666, 0]
+    },
+    "properties": {
+      "name": "XVII/630/A-140",
+      "description": "Poloha: N 48° 16.228' E 19° 28.838'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.47728333333333, 48.26928333333334, 0]
+    },
+    "properties": {
+      "name": "XVII/632/E",
+      "description": "Poloha: N 48° 16.157' E 19° 28.637'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.47388333333333, 48.26861666666667, 0]
+    },
+    "properties": {
+      "name": "XVII/634/A-120",
+      "description": "Poloha: N 48° 16.117' E 19° 28.433'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.54763333333333, 48.29583333333332, 0]
+    },
+    "properties": {
+      "name": "XVIII/810/A-120",
+      "description": "Poloha: N 48° 17.750' E 19° 32.858'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.54548333333333, 48.29334999999999, 0]
+    },
+    "properties": {
+      "name": "XVIII/811/A-160",
+      "description": "Poloha: N 48° 17.601' E 19° 32.729'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.54453333333333, 48.29133333333332, 0]
+    },
+    "properties": {
+      "name": "XVIII/813/A-160",
+      "description": "Poloha: N 48° 17.480' E 19° 32.672'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.54316666666667, 48.28988333333334, 0]
+    },
+    "properties": {
+      "name": "XVIII/814/A-180",
+      "description": "Poloha: N 48° 17.393' E 19° 32.590'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.94628333333333, 48.60403333333332, 1000000]
+    },
+    "properties": {
+      "name": "LI/1/A-140Z",
+      "description": "Poloha: N 48° 36.242' E 16° 56.777'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.94543333333333, 48.59975, 1000000]
+    },
+    "properties": {
+      "name": "LI/2/A-140Z",
+      "description": "Poloha: N 48° 35.985' E 16° 56.726'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.94468333333333, 48.59608333333333, 1000000]
+    },
+    "properties": {
+      "name": "LI/3/A-160Z",
+      "description": "Poloha:  N 48° 35.765' E 16° 56.681'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.95041666666667, 48.53601666666667, 0]
+    },
+    "properties": {
+      "name": "LI/4/A-160Z",
+      "description": "Poloha: N 48° 32.161' E 16° 57.025'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.95055, 48.53273333333333, 0]
+    },
+    "properties": {
+      "name": "LI/5/A-140Z",
+      "description": "Poloha: N 48° 31.964' E 16° 57.033'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.94605, 48.52611666666667, 0]
+    },
+    "properties": {
+      "name": "LI/6/A-180Z",
+      "description": "Poloha: N 48° 31.567' E 16° 56.763'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [16.9447, 48.523, 0] },
+    "properties": {
+      "name": "LI/7/A-160Z",
+      "description": "Poloha: N 48° 31.380' E 16° 56.682'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.8738, 48.46678333333333, 1000000]
+    },
+    "properties": {
+      "name": "LI/8/A-140",
+      "description": "Poloha: N 48° 28.007' E 16° 52.428'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.86868333333333, 48.46528333333333, 1000000]
+    },
+    "properties": {
+      "name": "LI/9/A-160",
+      "description": "Poloha: N 48° 27.917' E 16° 52.121'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.86605, 48.46418333333332, 1000000]
+    },
+    "properties": {
+      "name": "LI/10/D2Z",
+      "description": "Poloha: N 48° 27.851' E 16° 51.963'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.8646, 48.46078333333333, 1000000]
+    },
+    "properties": {
+      "name": "LI/11/A-200Z",
+      "description": "Poloha: N 48° 27.647' E 16° 51.876'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.85568333333333, 48.40923333333333, 1000000]
+    },
+    "properties": {
+      "name": "LI/12/A-120Z",
+      "description": "Poloha: N 48° 24.554' E 16° 51.341'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.85293333333333, 48.40728333333333, 1000000]
+    },
+    "properties": {
+      "name": "LI/13/A-200Z",
+      "description": "Poloha: N 48° 24.437' E 16° 51.176'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.85463333333333, 48.40501666666667, 1000000]
+    },
+    "properties": {
+      "name": "LI/14/A-160Z",
+      "description": "Poloha: N 48° 24.301' E 16° 51.278'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.86068333333333, 48.40198333333334, 1000000]
+    },
+    "properties": {
+      "name": "LI/15/A-120Z",
+      "description": "Poloha: N 48° 24.119' E 16° 51.641'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.8475, 48.38163333333333, 0]
+    },
+    "properties": {
+      "name": "LI/16a/A-140Z",
+      "description": "Poloha: N 48° 22.898' E 16° 50.850'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.83838333333333, 48.38338333333335, 0]
+    },
+    "properties": {
+      "name": "LI/16/A-220Z",
+      "description": "Poloha: N 48° 23.003' E 16° 50.303'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.83488333333333, 48.38126666666667, 0]
+    },
+    "properties": {
+      "name": "LI/17/A-200Z",
+      "description": "Poloha: N 48° 22.876' E 16° 50.093'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.8351, 48.37963333333333, 0]
+    },
+    "properties": {
+      "name": "LI/18/A-200Z",
+      "description": "Poloha: N 48° 22.778' E 16° 50.106'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.90471666666667, 48.33063333333333, 0]
+    },
+    "properties": {
+      "name": "LI/20/A-140Z",
+      "description": "Poloha: N 48° 19.838' E 16° 54.283'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.83601666666667, 48.37823333333332, 0]
+    },
+    "properties": {
+      "name": "LI/19/A-200Z",
+      "description": "Poloha: N 48° 22.694' E 16° 50.161'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [16.9088, 48.3269, 0] },
+    "properties": {
+      "name": "LI/21/A-120Z",
+      "description": "Poloha: N 48° 19.614' E 16° 54.528'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.90935, 48.32091666666667, 0]
+    },
+    "properties": {
+      "name": "LI/22/A-180Z",
+      "description": "Poloha: N 48° 19.255' E 16° 54.561'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.9129, 48.28411666666667, 0]
+    },
+    "properties": {
+      "name": "LI/23/A-180Z",
+      "description": "Poloha: N 48° 17.047' E 16° 54.774'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.91588333333333, 48.28165, 0]
+    },
+    "properties": {
+      "name": "LI/24/A-160Z",
+      "description": "Poloha: N 48° 16.899' E 16° 54.953'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [16.91895, 48.2791, 0] },
+    "properties": {
+      "name": "LI/25/A-160Z",
+      "description": "Poloha: N 48° 16.746' E 16° 55.137'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.95378333333333, 48.24655, 1000000]
+    },
+    "properties": {
+      "name": "LI/26/A-140Z",
+      "description": "Poloha: N 48° 14.793' E 16° 57.227'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.9534, 48.24083333333334, 1000000]
+    },
+    "properties": {
+      "name": "LI/27/A-140Z",
+      "description": "Poloha: N 48° 14.450' E 16° 57.204'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.95375, 48.23648333333333, 1000000]
+    },
+    "properties": {
+      "name": "LI/28/A-160Z",
+      "description": "Poloha: N 48° 14.189' E 16° 57.225'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.97141666666667, 48.20056666666667, 1000000]
+    },
+    "properties": {
+      "name": "LII/42/A-180Z",
+      "description": "Poloha: N 48° 12.034' E 16° 58.285'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.96825, 48.21078333333333, 0]
+    },
+    "properties": {
+      "name": "LII/45/A-180",
+      "description": "Poloha: N 48° 12.647' E 16° 58.095'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.97003333333333, 48.2182, 1000000]
+    },
+    "properties": {
+      "name": "LII/49/A-140Z",
+      "description": "Poloha: N 48° 13.092' E 16° 58.202'V"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.96645, 48.22536666666667, 0]
+    },
+    "properties": {
+      "name": "LII/53/A-140Z",
+      "description": "Poloha: N 48° 13.522' E 16° 57.987'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.96596666666667, 48.233, 1000000]
+    },
+    "properties": {
+      "name": "LII/59/A-140",
+      "description": "Poloha: N 48° 13.980' E 16° 57.958'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.96218333333333, 48.24183333333333, 1000000]
+    },
+    "properties": {
+      "name": "LII/63/A-160",
+      "description": "Poloha: N 48° 14.510' E 16° 57.731'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.96183333333334, 48.24508333333333, 1000000]
+    },
+    "properties": {
+      "name": "LII/65/A-140Z",
+      "description": "Poloha: N 48° 14.705' E 16° 57.710'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.96016666666667, 48.24804999999999, 0]
+    },
+    "properties": {
+      "name": "LII/67/A-160",
+      "description": "Poloha: N 48° 14.883' E 16° 57.610'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.96635, 48.24353333333333, 1000000]
+    },
+    "properties": {
+      "name": "LII/68/A-140",
+      "description": "Poloha: N 48° 14.612' E 16° 57.981'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.9595, 48.25081666666666, 1000000]
+    },
+    "properties": {
+      "name": "LII/69/A-160",
+      "description": "Poloha: N 48° 15.049' E 16° 57.570'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.95913333333333, 48.25328333333334, 1000000]
+    },
+    "properties": {
+      "name": "LII/71/A-160Z",
+      "description": "Poloha: N 48° 15.197' E 16° 57.548'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.95786666666667, 48.25699999999999, 1000000]
+    },
+    "properties": {
+      "name": "LII/73/A-180",
+      "description": "Poloha: N 48° 15.420' E 16° 57.472'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.95931666666667, 48.26191666666665, 1000000]
+    },
+    "properties": {
+      "name": "LII/77/A-140Z",
+      "description": "Poloha: N 48° 15.715' E 16° 57.559'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.95945, 48.26545, 1000000]
+    },
+    "properties": {
+      "name": "LII/79/A-160",
+      "description": "Poloha: N 48° 15.927' E 16° 57.567'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.96556666666667, 48.24686666666666, 0]
+    },
+    "properties": {
+      "name": "LII/70/A-140",
+      "description": "Poloha: N 48° 14.812' E 16° 57.934'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.96521666666667, 48.24938333333334, 1000000]
+    },
+    "properties": {
+      "name": "LII/72/A-140",
+      "description": "Poloha: N 48° 14.963' E 16° 57.913'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.96401666666667, 48.2532, 1000000]
+    },
+    "properties": {
+      "name": "LII/74/A-160",
+      "description": "Poloha: N 48° 15.192' E 16° 57.841'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.9631, 48.25528333333332, 1000000]
+    },
+    "properties": {
+      "name": "LII/76/A-160",
+      "description": "Poloha: N 48° 15.317' E 16° 57.786'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.96271666666667, 48.2584, 1000000]
+    },
+    "properties": {
+      "name": "LII/78/A-140",
+      "description": "Poloha: N 48° 15.504' E 16° 57.763'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.96165, 48.26043333333333, 1000000]
+    },
+    "properties": {
+      "name": "LII/80/A-160",
+      "description": "Poloha: N 48° 15.626' E 16° 57.699'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.95963333333333, 48.26735, 1000000]
+    },
+    "properties": {
+      "name": "LII/81/A-160",
+      "description": "Poloha: N 48° 16.041' E 16° 57.578'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.96253333333333, 48.26448333333332, 1000000]
+    },
+    "properties": {
+      "name": "LII/82/A-120",
+      "description": "Poloha: N 48° 15.869' E 16° 57.752'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.96133333333333, 48.26993333333332, 1000000]
+    },
+    "properties": {
+      "name": "LII/83/A-120",
+      "description": "Poloha: N 48° 16.196' E 16° 57.680'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.9617, 48.26646666666667, 1000000]
+    },
+    "properties": {
+      "name": "LII/84/A-200",
+      "description": "Poloha: N 48° 15.988' E 16° 57.702'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.9629, 48.26753333333334, 1000000]
+    },
+    "properties": {
+      "name": "LII/86/A-140",
+      "description": "Poloha: N 48° 16.052' E 16° 57.774'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.96488333333333, 48.26930000000001, 1000000]
+    },
+    "properties": {
+      "name": "LII/88/A-120",
+      "description": "Poloha: N 48° 16.158' E 16° 57.893'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.96538333333333, 48.27086666666667, 1000000]
+    },
+    "properties": {
+      "name": "LII/90/A-160",
+      "description": "Poloha: N 48° 16.252' E 16° 57.923'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.96678333333333, 48.27323333333334, 1000000]
+    },
+    "properties": {
+      "name": "LII/92/A-140",
+      "description": "Poloha: N 48° 16.394' E 16° 58.007'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.96553333333333, 48.29713333333333, 0]
+    },
+    "properties": {
+      "name": "LIII/107/A-180Z",
+      "description": "Poloha: N 48° 17.828' E 16° 57.932'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.97143333333333, 48.30161666666666, 1000000]
+    },
+    "properties": {
+      "name": "LIII/113/A-140Z",
+      "description": "Poloha: N 48° 18.097' E 16° 58.286'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.97231666666667, 48.3129, 1000000]
+    },
+    "properties": {
+      "name": "LIII/117/A-160",
+      "description": "Poloha: N 48° 18.774' E 16° 58.339'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.97901666666667, 48.3245, 0]
+    },
+    "properties": {
+      "name": "LIII/120/A-140",
+      "description": "Poloha: N 48° 19.470' E 16° 58.741'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.97866666666667, 48.32786666666667, 0]
+    },
+    "properties": {
+      "name": "LIII/122/A-160",
+      "description": "Poloha: N 48° 19.672' E 16° 58.720'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.97296666666667, 48.32085, 0]
+    },
+    "properties": {
+      "name": "LIII/123/A-160Z",
+      "description": "Poloha: N 48° 19.251' E 16° 58.378'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.97931666666667, 48.33101666666666, 1000000]
+    },
+    "properties": {
+      "name": "LIII/124/A-140",
+      "description": "Poloha: N 48° 19.861' E 16° 58.759'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.9794, 48.33450000000001, 1000000]
+    },
+    "properties": {
+      "name": "LIII/126/A-120",
+      "description": "Poloha: N 48° 20.070' E 16° 58.764'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.97385, 48.32858333333333, 1000000]
+    },
+    "properties": {
+      "name": "LIII/127/A-160Z",
+      "description": "Poloha: N 48° 19.715' E 16° 58.431'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.97603333333333, 48.33806666666667, 0]
+    },
+    "properties": {
+      "name": "LIII/128/A-140",
+      "description": "Poloha: N 48° 20.284' E 16° 58.562'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.97353333333333, 48.33518333333333, 1000000]
+    },
+    "properties": {
+      "name": "LIII/129/A-120Z",
+      "description": "Poloha: N 48° 20.111' E 16° 58.412'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.97413333333333, 48.33965, 1000000]
+    },
+    "properties": {
+      "name": "LIII/130/A-120",
+      "description": "Poloha: N 48° 20.379' E 16° 58.448'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.97056666666667, 48.34101666666668, 1000000]
+    },
+    "properties": {
+      "name": "LIII/132/A-160",
+      "description": "Poloha: N 48° 20.461' E 16° 58.234'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.97048333333333, 48.33835, 0]
+    },
+    "properties": {
+      "name": "LIII/135/A-140",
+      "description": "Poloha: N 48° 20.301' E 16° 58.229'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.96258333333334, 48.34465, 0]
+    },
+    "properties": {
+      "name": "LIII/136/A-120",
+      "description": "Poloha: N 48° 20.679' E 16° 57.755'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.95258333333333, 48.34326666666668, 0]
+    },
+    "properties": {
+      "name": "LIII/137/A-160Z",
+      "description": "Poloha: N 48° 20.596' E 16° 57.155'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.95338333333334, 48.3451, 1000000]
+    },
+    "properties": {
+      "name": "LIII/138/A-160",
+      "description": "Poloha: N 48° 20.706' E 16° 57.203'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.95098333333333, 48.34341666666667, 1000000]
+    },
+    "properties": {
+      "name": "LIII/139/A-160Z",
+      "description": "Poloha: N 48° 20.605' E 16° 57.059'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.94823333333333, 48.347, 1000000]
+    },
+    "properties": {
+      "name": "LIII/142/A-200",
+      "description": "Poloha: N 48° 20.820' E 16° 56.894'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.9429, 48.35521666666666, 1000000]
+    },
+    "properties": {
+      "name": "LIII/238/A-140",
+      "description": "Poloha: N 48° 21.313' E 16° 56.574'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.93378333333333, 48.35855, 0]
+    },
+    "properties": {
+      "name": "LIII/239/A-160",
+      "description": "Poloha: N 48° 21.513' E 16° 56.027'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.94521666666667, 48.35345000000001, 1000000]
+    },
+    "properties": {
+      "name": "LIII/240/A-120",
+      "description": "Poloha: N 48° 21.207' E 16° 56.713'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.93865, 48.35626666666667, 0]
+    },
+    "properties": {
+      "name": "LIII/241/A-140",
+      "description": "Poloha: N 48° 21.376' E 16° 56.319'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.94788333333333, 48.35026666666667, 1000000]
+    },
+    "properties": {
+      "name": "LIII/242/A-120",
+      "description": "Poloha: N 48° 21.016' E 16° 56.873'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.9412, 48.35345000000001, 1000000]
+    },
+    "properties": {
+      "name": "LIII/243/A-140Z",
+      "description": "Poloha: N 48° 21.207' E 16° 56.472'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.94618333333333, 48.34628333333333, 1000000]
+    },
+    "properties": {
+      "name": "LIII/245/A-140Z",
+      "description": "Poloha: N 48° 20.777' E 16° 56.771'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.94708333333333, 48.34491666666667, 1000000]
+    },
+    "properties": {
+      "name": "LIII/247/A-180Z",
+      "description": "Poloha: N 48° 20.695' E 16° 56.825'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.94061666666667, 48.35708333333334, 1000000]
+    },
+    "properties": {
+      "name": "LIII/236/A-140",
+      "description": "Poloha: N 48° 21.425' E 16° 56.437'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.91368333333334, 48.40803333333334, 0]
+    },
+    "properties": {
+      "name": "LIV/205/A-140",
+      "description": "Poloha: N 48° 24.482' E 16° 54.821'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.91426666666667, 48.40141666666667, 1000000]
+    },
+    "properties": {
+      "name": "LIV/209/A-160",
+      "description": "Poloha: N 48° 24.085' E 16° 54.856'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.91678333333334, 48.37973333333332, 0]
+    },
+    "properties": {
+      "name": "LIV/214/A-160",
+      "description": "Poloha: N 48° 22.784' E 16° 55.007'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.91276666666667, 48.39158333333334, 0]
+    },
+    "properties": {
+      "name": "LIV/215/A-160",
+      "description": "Poloha: N 48° 23.495' E 16° 54.766'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.91736666666667, 48.37771666666665, 0]
+    },
+    "properties": {
+      "name": "LIV/216/A-160",
+      "description": "Poloha: N 48° 22.663' E 16° 55.042'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.91856666666667, 48.37661666666666, 0]
+    },
+    "properties": {
+      "name": "LIV/218/A-160",
+      "description": "Poloha: N 48° 22.597' E 16° 55.114'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.92063333333334, 48.37488333333334, 0]
+    },
+    "properties": {
+      "name": "LIV/220/A-140",
+      "description": "Poloha: N 48° 22.493' E 16° 55.238'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.92341666666667, 48.37238333333333, 0]
+    },
+    "properties": {
+      "name": "LIV/222/A-140",
+      "description": "Poloha: N 48° 22.343' E 16° 55.405'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.91341666666667, 48.37880000000001, 0]
+    },
+    "properties": {
+      "name": "LIV/223/A-160",
+      "description": "Poloha: N 48° 22.728' E 16° 54.805'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.92578333333333, 48.36968333333333, 0]
+    },
+    "properties": {
+      "name": "LIV/224/A-140",
+      "description": "Poloha: N 48° 22.181' E 16° 55.547'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.92746666666667, 48.36631666666667, 0]
+    },
+    "properties": {
+      "name": "LIV/226/A-140",
+      "description": "Poloha: N 48° 21.979' E 16° 55.648'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.92846666666667, 48.36481666666667, 0]
+    },
+    "properties": {
+      "name": "LIV/228/A-160",
+      "description": "Poloha: N 48° 21.889' E 16° 55.708'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.93035, 48.36321666666668, 0]
+    },
+    "properties": {
+      "name": "LIV/230/A-160",
+      "description": "Poloha: N 48° 21.793' E 16° 55.821'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.9323, 48.36191666666667, 1000000]
+    },
+    "properties": {
+      "name": "LIV/232/A-160",
+      "description": "Poloha: N 48° 21.715' E 16° 55.938'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.92763333333333, 48.36363333333334, 0]
+    },
+    "properties": {
+      "name": "LIV/235/A-160",
+      "description": "Poloha: N 48° 21.818' E 16° 55.658'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.93061666666667, 48.36115, 1000000]
+    },
+    "properties": {
+      "name": "LIV/237/A-140Z",
+      "description": "Poloha: N 48° 21.669' E 16° 55.837'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.92648333333333, 48.47566666666666, 0]
+    },
+    "properties": {
+      "name": "LV/152/A-160",
+      "description": "Poloha: N 48° 28.540' E 16° 55.589'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.91863333333333, 48.47251666666666, 0]
+    },
+    "properties": {
+      "name": "LV/155/A-160Z",
+      "description": "Poloha: N 48° 28.351' E 16° 55.118'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.90951666666667, 48.45871666666666, 0]
+    },
+    "properties": {
+      "name": "LV/158/A-140",
+      "description": "Poloha: N 48° 27.523' E 16° 54.571'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.91273333333333, 48.46843333333334, 0]
+    },
+    "properties": {
+      "name": "LV/159/A-140",
+      "description": "Poloha: N 48° 28.106' E 16° 54.764'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.90656666666667, 48.45551666666668, 0]
+    },
+    "properties": {
+      "name": "LV/160/A-140",
+      "description": "Poloha: N 48° 27.331' E 16° 54.394'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.89978333333333, 48.44903333333334, 0]
+    },
+    "properties": {
+      "name": "LV/164/A-140",
+      "description": "Poloha: N 48° 26.942' E 16° 53.987'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.90646666666667, 48.46135, 0]
+    },
+    "properties": {
+      "name": "LV/165/A-160Z",
+      "description": "Poloha: N 48° 27.681' E 16° 54.388'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.89398333333334, 48.44348333333333, 0]
+    },
+    "properties": {
+      "name": "LV/166/A-140",
+      "description": "Poloha: N 48° 26.609' E 16° 53.639'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.90325, 48.45536666666667, 0]
+    },
+    "properties": {
+      "name": "LV/169/A-140",
+      "description": "Poloha: N 48° 27.322' E 16° 54.195'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.90198333333333, 48.45366666666666, 0]
+    },
+    "properties": {
+      "name": "LV/171/A-140Z",
+      "description": "Poloha: N 48° 27.220' E 16° 54.119'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.89993333333333, 48.45200000000001, 0]
+    },
+    "properties": {
+      "name": "LV/173/A-160Z",
+      "description": "Poloha: N 48° 27.120' E 16° 53.996'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.89678333333333, 48.44821666666667, 0]
+    },
+    "properties": {
+      "name": "LV/175/A-160",
+      "description": "Poloha: N 48° 26.893' E 16° 53.807'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.89586666666667, 48.44555, 0]
+    },
+    "properties": {
+      "name": "LV/179/A-160",
+      "description": "Poloha: N 48° 26.733' E 16° 53.752'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.92795, 48.47956666666666, 0]
+    },
+    "properties": {
+      "name": "LV/251/A-140",
+      "description": "Poloha: N 48° 28.774' E 16° 55.677'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.92968333333333, 48.47765, 0]
+    },
+    "properties": {
+      "name": "LV/252/A-140",
+      "description": "Poloha: N 48° 28.659' E 16° 55.781'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.93271666666667, 48.48121666666667, 0]
+    },
+    "properties": {
+      "name": "LV/254/A-160",
+      "description": "Poloha: N 48° 28.873' E 16° 55.963'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.93193333333333, 48.48641666666666, 0]
+    },
+    "properties": {
+      "name": "LV/255/A-140",
+      "description": "Poloha: N 48° 29.185' E 16° 55.916'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.93586666666667, 48.48338333333333, 0]
+    },
+    "properties": {
+      "name": "LV/256/A-120",
+      "description": "Poloha: N 48° 29.003' E 16° 56.152'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.93568333333333, 48.49448333333334, 0]
+    },
+    "properties": {
+      "name": "LV/259/A-160Z",
+      "description": "Poloha: N 48° 29.669' E 16° 56.141'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.93833333333333, 48.49251666666667, 0]
+    },
+    "properties": {
+      "name": "LV/260/A-160",
+      "description": "Poloha: N 48° 29.551' E 16° 56.300'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.93723333333333, 48.49636666666667, 0]
+    },
+    "properties": {
+      "name": "LV/261/A-140",
+      "description": "Poloha: N 48° 29.782' E 16° 56.234'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.94178333333333, 48.49535, 0]
+    },
+    "properties": {
+      "name": "LV/262/A-140",
+      "description": "Poloha: N 48° 29.721' E 16° 56.507'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.94331666666667, 48.4969, 0]
+    },
+    "properties": {
+      "name": "LV/264/A-140",
+      "description": "Poloha: N 48° 29.814' E 16° 56.599'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.94541666666667, 48.49881666666667, 0]
+    },
+    "properties": {
+      "name": "LV/266/A-160",
+      "description": "Poloha: N 48° 29.929' E 16° 56.725'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.94483333333333, 48.50211666666667, 0]
+    },
+    "properties": {
+      "name": "LV/267/A-140Z",
+      "description": "Poloha: N 48° 30.127' E 16° 56.690'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.95448333333333, 48.5048, 0]
+    },
+    "properties": {
+      "name": "LV/270/A-140",
+      "description": "Poloha: N 48° 30.288' E 16° 57.269'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.95166666666667, 48.50711666666667, 0]
+    },
+    "properties": {
+      "name": "LV/271/A-140",
+      "description": "Poloha: N 48° 30.427' E 16° 57.100'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.95818333333333, 48.50891666666665, 0]
+    },
+    "properties": {
+      "name": "LV/272/A-160",
+      "description": "Poloha: N 48° 30.535' E 16° 57.491'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.9564, 48.51173333333333, 1000000]
+    },
+    "properties": {
+      "name": "LV/275/A-140",
+      "description": "Poloha: N 48° 30.704' E 16° 57.384'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.98946666666667, 48.56763333333333, 0]
+    },
+    "properties": {
+      "name": "LVI/314/A-140",
+      "description": "Poloha: N 48° 34.058' E 16° 59.368'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.99145, 48.57163333333333, 1000000]
+    },
+    "properties": {
+      "name": "LVI/316/A-140",
+      "description": "Poloha:  48° 34.298' E 16° 59.487'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.98338333333333, 48.59564999999999, 0]
+    },
+    "properties": {
+      "name": "LVI/330/A-140",
+      "description": "Poloha: N 48° 35.739' E 16° 59.003'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.97848333333333, 48.59539999999999, 0]
+    },
+    "properties": {
+      "name": "LVI/331/A-120Z",
+      "description": "Poloha: N 48° 35.724' E 16° 58.709'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.98138333333333, 48.5975, 0]
+    },
+    "properties": {
+      "name": "LVI/332/A-140",
+      "description": "Poloha: N 48° 35.850' E 16° 58.883'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.98651666666667, 48.58286666666667, 1000000]
+    },
+    "properties": {
+      "name": "LVI/323/A-160Z",
+      "description": "Poloha: N 48° 34.972' E 16° 59.191'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.97363333333333, 48.59746666666668, 1000000]
+    },
+    "properties": {
+      "name": "LVI/333/A-140",
+      "description": "Poloha: N 48° 35.848' E 16° 58.418'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.97795, 48.59966666666666, 1000000]
+    },
+    "properties": {
+      "name": "LVI/334/A-160",
+      "description": "Poloha: N 48° 35.980' E 16° 58.677'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.96935, 48.5988, 1000000]
+    },
+    "properties": {
+      "name": "LVI/335/A-180Z",
+      "description": "Poloha: N 48° 35.928' E 16° 58.161'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.97491666666667, 48.60233333333333, 1000000]
+    },
+    "properties": {
+      "name": "LVI/336/A-160",
+      "description": "Poloha: N 48° 36.140' E 16° 58.495'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.97346666666667, 48.60508333333333, 1000000]
+    },
+    "properties": {
+      "name": "LVI/338/A-140",
+      "description": "Poloha: N 48° 36.305' E 16° 58.408'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.96916666666667, 48.60466666666667, 1000000]
+    },
+    "properties": {
+      "name": "LVI/339/A-140Z",
+      "description": "Poloha: N 48° 36.280' E 16° 58.150'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.97073333333333, 48.60946666666667, 0]
+    },
+    "properties": {
+      "name": "LVI/340/A-120",
+      "description": "Poloha: N 48° 36.568' E 16° 58.244'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.96911666666667, 48.6068, 1000000]
+    },
+    "properties": {
+      "name": "LVI/341/A-120",
+      "description": "Poloha: N 48° 36.408' E 16° 58.147'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.96728333333333, 48.61266666666667, 1000000]
+    },
+    "properties": {
+      "name": "LVI/342/A-120",
+      "description": "Poloha:  N 48° 36.760' E 16° 58.037'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.9653, 48.60926666666667, 1000000]
+    },
+    "properties": {
+      "name": "LVI/343/A-120",
+      "description": "Poloha: N 48° 36.556' E 16° 57.918'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.96175, 48.61471666666667, 1000000]
+    },
+    "properties": {
+      "name": "LVI/344/A-140",
+      "description": "Poloha: N 48° 36.883' E 16° 57.705'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [16.9562, 48.61225, 0] },
+    "properties": {
+      "name": "LVI/347/A-160",
+      "description": "Poloha: N 48° 36.735' E 16° 57.372'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.9521, 48.61803333333334, 0]
+    },
+    "properties": {
+      "name": "LVI/348/A-140",
+      "description": "Poloha: N 48° 37.082' E 16° 57.126'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.94965, 48.61618333333333, 0]
+    },
+    "properties": {
+      "name": "LVI/351/A-140",
+      "description": "Poloha: N 48° 36.971' E 16° 56.979'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.94636666666667, 48.61868333333334, 0]
+    },
+    "properties": {
+      "name": "LVI/353/A-120",
+      "description": "Poloha: N 48° 37.121' E 16° 56.782'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [20.34419000010445, 48.48893999987936, 0]
+    },
+    "properties": { "name": "R-I/51/A-160" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [20.05459999986072, 48.29996000042283, 0]
+    },
+    "properties": { "name": "RS-I/24/A-160Z" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.45528962016438, 48.59893996227731, 0]
+    },
+    "properties": { "name": "K-V/220/A-180" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.45902999984658, 48.59635999952331, 0]
+    },
+    "properties": { "name": "K-V/221/A-160" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.46028000002501, 48.60134999987213, 0]
+    },
+    "properties": { "name": "K-V/222/E" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.46252000041284, 48.60193000014763, 0]
+    },
+    "properties": { "name": "K-V/223/A-120" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.4639500006551, 48.59523999959589, 0]
+    },
+    "properties": { "name": "K-V/224/A-140" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.4656699998462, 48.59292999993672, 0]
+    },
+    "properties": { "name": "K-V/225/A-200" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.46622999977794, 48.60018999987223, 0]
+    },
+    "properties": { "name": "K-V/226/A-120" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.46983000007609, 48.59490000002151, 0]
+    },
+    "properties": { "name": "K-V/227/A-180" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.4699399997768, 48.59141000042087, 0]
+    },
+    "properties": { "name": "K-V/228/A-160" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.47323000014591, 48.58988999993344, 0]
+    },
+    "properties": { "name": "K-V/229/A-180" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.47556999989874, 48.59175999985539, 0]
+    },
+    "properties": { "name": "K-V/230/A-180" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.47896999965644, 48.58726000039888, 0]
+    },
+    "properties": { "name": "K-V/231/A-160" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.48144999979461, 48.58420000071216, 0]
+    },
+    "properties": { "name": "K-V/232/A-220" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.48629999991059, 48.5833999994668, 0]
+    },
+    "properties": { "name": "K-V/233/A-220" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.49134999998752, 48.58366999945827, 0]
+    },
+    "properties": { "name": "K-V/234/A-140" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.49512999972202, 48.58141999933293, 0]
+    },
+    "properties": { "name": "K-V/235/A-160" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.49723000004999, 48.57828000004312, 0]
+    },
+    "properties": { "name": "K-V/236/A-200" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.50129000045612, 48.57985000018719, 0]
+    },
+    "properties": { "name": "K-V/237/A-120" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.5048199997946, 48.57537999970596, 0]
+    },
+    "properties": { "name": "K-V/238/A-200" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.98367999968547, 48.41264000031795, 0]
+    },
+    "properties": { "name": "U-II/212/A-140" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.064871, 48.141609, 0] },
+    "properties": {
+      "name": "B-S 1",
+      "description": "<span style=\"font-family:arial, sans-serif;background-color:rgb(229, 227, 223)\">“Štěrkoviště”</span>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.06642, 48.13610800000001, 1000000]
+    },
+    "properties": {
+      "name": "B-S 2",
+      "description": "<div dir=\"ltr\">“Mulda”</div>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.068033, 48.130581, 0] },
+    "properties": {
+      "name": "B-S 3",
+      "description": "<div dir=\"ltr\">“Paseka”</div>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.07209, 48.12759, 1000000]
+    },
+    "properties": {
+      "name": "B-S 4",
+      "description": "<div dir=\"ltr\">“Lány”</div>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.081177, 48.11665000000001, 0]
+    },
+    "properties": {
+      "name": "B-S 6",
+      "description": "<div dir=\"ltr\">“Vrba”</div>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.078291, 48.110802, 1000000]
+    },
+    "properties": {
+      "name": "B-S 7",
+      "description": "<div dir=\"ltr\">&quot;Cvičiště&quot;</div>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.08153, 48.107792, 1000000]
+    },
+    "properties": {
+      "name": "B-S 8",
+      "description": "<div dir=\"ltr\">&quot;Hřbitov&quot;</div>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.084641, 48.10435099999999, 0]
+    },
+    "properties": {
+      "name": "B-S 9",
+      "description": "<div dir=\"ltr\">&quot;Kittsee&quot;</div>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.095261, 48.101311, 0] },
+    "properties": {
+      "name": "B-S 10",
+      "description": "<div dir=\"ltr\">&quot;Tři Hranice&quot;</div>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.12373, 48.09968900000001, 1000000]
+    },
+    "properties": {
+      "name": "B-S 13",
+      "description": "<div dir=\"ltr\">“Stoh”</div>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.132063, 48.101528, 0] },
+    "properties": {
+      "name": "B-S 14",
+      "description": "<div dir=\"ltr\">&quot;Duna&quot;</div>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.137791, 48.10051, 0] },
+    "properties": {
+      "name": "B-S 15",
+      "description": "<div dir=\"ltr\">“Ostrov”</div>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.08667, 48.118198, 1000000]
+    },
+    "properties": { "name": "B-S V2" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.081553, 48.121128, 0] },
+    "properties": { "name": "B-S II" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.12324, 48.105831, 1000000]
+    },
+    "properties": { "name": "B-S V4" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.07567, 48.13282000000001, 0]
+    },
+    "properties": { "name": "B-S V1" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.136129, 48.21056, 1000000]
+    },
+    "properties": { "name": "Rača" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.283871, 48.685307, 0] },
+    "properties": {
+      "name": "Košice Nad jazerom 01",
+      "description": "<font size=\"2\" face=\"arial\">48.685305, 21.283870</font>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.301611, 48.20645100000001, 0]
+    },
+    "properties": {
+      "name": "Bernolákovo 01",
+      "description": "<div dir=\"ltr\"><br></div>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.25325, 48.743111, 0] },
+    "properties": {
+      "name": "Einmannbunker",
+      "description": "<div dir=\"ltr\">Najvychdonejsi na slovensku..WW2</div>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.04184, 48.105751, 0] },
+    "properties": {
+      "name": "Berg 01",
+      "description": "<font size=\"2\" face=\"arial\">48.105750, 17.041839</font>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.43848333333333, 48.80793333333333, 0]
+    },
+    "properties": {
+      "name": "Bunker Zámostie - vchod1",
+      "description": "Poloha: N 48°48.476' E 019°26.309' \nVýška:459"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.438675, 48.80778888888889, 0]
+    },
+    "properties": {
+      "name": "Bunker Zámostie - vchod2",
+      "description": "Poloha: N 48°48.467' E 019°26.320'\nVýška: 459"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.965149, 49.09365499999999, 0]
+    },
+    "properties": { "name": "Bunker MT 001", "description": "Sučany<br>" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.193895, 48.96131499999999, 0]
+    },
+    "properties": {
+      "name": "Bunker 1Dubnica nad Váhom",
+      "description": "<div dir=\"ltr\">Bunker Ryba</div>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.158756, 48.17867699999999, 0]
+    },
+    "properties": { "name": "Jurajov Dvor" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [18.43751, 49.117134, 0] },
+    "properties": {
+      "name": "Považska Bystrica 01",
+      "description": "49.117135, 18.437509<br>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.338228, 48.284794, 0] },
+    "properties": { "name": "Šenkvice01" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.20285, 48.23841899999999, 1000000]
+    },
+    "properties": { "name": "B090214" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.057648, 48.550705, 0] },
+    "properties": { "name": "B08050101-72" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.101377, 48.145531, 0] },
+    "properties": { "name": "B080411" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.3117, 48.50488333333333, 0]
+    },
+    "properties": {
+      "name": "Bunker",
+      "description": "Poloha: N 48° 30.293' E 18° 18.702'\nhttp://www.panoramio.com/photo/15587557"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.53251666666667, 48.74273333333332, 0]
+    },
+    "properties": {
+      "name": "Bunker Dragovský priesmyk",
+      "description": "Poloha: N 48° 44.564' E 21° 31.951'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.14218333333333, 48.55776666666667, 0]
+    },
+    "properties": {
+      "name": "Bunker Zvolen",
+      "description": "Poloha: N 48° 33.466' E 19° 8.531'\nhttp://www.panoramio.com/photo/8825527"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.7046, 49.39655, 0] },
+    "properties": {
+      "name": "Bunker Krajná Bystrá",
+      "description": "Poloha: N 49° 23.793' E 21° 42.276'\nhttp://www.panoramio.com/photo/53751054"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.42363333333334, 49.55468333333334, 0]
+    },
+    "properties": {
+      "name": "Strieľňa protipechotného opevnenia",
+      "description": "Poloha: N 49° 33.281' E 19° 25.418'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.39678333333333, 49.53815, 0]
+    },
+    "properties": {
+      "name": "Guľometná strieľňa",
+      "description": "Poloha: N 49° 32.289' E 19° 23.807'\nhttp://www.panoramio.com/photo/50966939"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.43791666666667, 48.94674999999999, 0]
+    },
+    "properties": {
+      "name": "Bunker Ulič 7",
+      "description": "Poloha: N 48° 56.805' E 22° 26.275'\nhttp://www.panoramio.com/photo/26070775"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.43613333333333, 48.94391666666667, 0]
+    },
+    "properties": {
+      "name": "Bunker Ulič",
+      "description": "Poloha: N 48° 56.635' E 22° 26.168'\nhttp://www.panoramio.com/photo/45814474"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.44111666666667, 48.94966666666667, 0]
+    },
+    "properties": {
+      "name": "Bunker Ulič 2",
+      "description": "Poloha: N 48° 56.980' E 22° 26.467'\nhttp://www.panoramio.com/photo/45814478"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.43781666666667, 48.94541666666667, 0]
+    },
+    "properties": {
+      "name": "Bunker Ulič 3",
+      "description": "Poloha: N 48° 56.725' E 22° 26.269'\nhttp://www.panoramio.com/photo/45814459"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [22.4376, 48.9471, 0] },
+    "properties": {
+      "name": "Bunker Ulič 4",
+      "description": "Poloha: N 48° 56.826' E 22° 26.256'\nhttp://www.panoramio.com/photo/26072415"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.44206666666667, 48.95128333333334, 0]
+    },
+    "properties": {
+      "name": "Bunker Ulič 5",
+      "description": "Poloha: N 48° 57.077' E 22° 26.524'\nhttp://www.panoramio.com/photo/26071275"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.44133333333333, 48.95038333333334, 0]
+    },
+    "properties": {
+      "name": "Bunker Ulič 6",
+      "description": "Poloha: N 48° 57.023'S E 22° 26.480'\nhttp://www.panoramio.com/photo/26070946"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.75836666666667, 48.6598, 0]
+    },
+    "properties": {
+      "name": "Bunker Očkov",
+      "description": "Poloha: N 48° 39.588' E 17° 45.502'\nhttp://www.panoramio.com/photo/12896023"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.70386666666667, 49.39661666666666, 0]
+    },
+    "properties": {
+      "name": "Bunker Krajná Bystrá 2",
+      "description": "Poloha: N 49° 23.797' E 21° 42.232'\nhttp://www.panoramio.com/photo/36719747"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.43978333333334, 48.94600000000001, 0]
+    },
+    "properties": {
+      "name": "Bunker Ulič 8",
+      "description": "Poloha: N 48° 56.760' E 22° 26.387'\nhttp://www.panoramio.com/photo/52084164"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.22453333424187, 48.67850000076048, 0]
+    },
+    "properties": {
+      "name": "Bunker Dolná Mičiná",
+      "description": "Poloha: N 48° 40.710' E 19° 13.472'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.12395000037892, 48.57389999998635, 0]
+    },
+    "properties": {
+      "name": "Bunker Zvolen",
+      "description": "Poloha: N 48° 34.434' E 019° 07.437'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.25091666666667, 48.31408333333333, 0]
+    },
+    "properties": {
+      "name": "Delostrelecke drevozemne bunkre",
+      "description": "Poloha: N 48° 18.845' E 17° 15.055'\ncca 5 pozostatkov, iba diery"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.25543333333333, 48.32703333333334, 0]
+    },
+    "properties": {
+      "name": "Bunker",
+      "description": "Poloha: N 48° 19.622' E 17° 15.326'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.30216666666667, 48.348, 0]
+    },
+    "properties": {
+      "name": "Podzemná nemocnica",
+      "description": "Poloha: N 48° 20.880' E 17° 18.130'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.44058333333333, 48.47865, 0]
+    },
+    "properties": {
+      "name": "Muničný sklad (vyhodený do vzduchu)",
+      "description": "Poloha: N 48° 28.719' E 17° 26.435'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.12943333333334, 48.05103333333335, 0]
+    },
+    "properties": {
+      "name": "Protivzdušná obrana - Rusovce",
+      "description": "Poloha: N 48° 3.062' E 17° 7.766'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.2247, 48.07106666666666, 0]
+    },
+    "properties": {
+      "name": "Protivzdušná obrana - Dunajská Lužná",
+      "description": "Poloha: N 48° 4.264' E 17° 13.482'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.3673, 48.0644, 0] },
+    "properties": {
+      "name": "Rádiolokačná hláska - Mierovo - Malá Bojovka",
+      "description": "Poloha: N 48° 3.864' E 17° 22.038'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.39536666666667, 48.10261666666667, 0]
+    },
+    "properties": {
+      "name": "Hubice_neznámy_objekt_+_bunker",
+      "description": "Poloha: N 48° 6.157' E 17° 23.722'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.42581666666667, 47.98435, 0]
+    },
+    "properties": {
+      "name": "Protivzdušná obrana - Rohovce",
+      "description": "Poloha: N 47° 59.061' E 17° 25.549'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.27253333333333, 48.13063333333334, 0]
+    },
+    "properties": {
+      "name": "Protivzdušná obrana - Most pri Bratislave",
+      "description": "Poloha: N 48° 7.838' E 17° 16.352'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.99526666666667, 48.18971666666667, 0]
+    },
+    "properties": {
+      "name": "Protivzdušná obrana - Devínska Kobyla",
+      "description": "Poloha: N 48° 11.383' E 16° 59.716'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.98118333333333, 48.25765, 0]
+    },
+    "properties": {
+      "name": "Protivzdušná obrana - STUPAVA",
+      "description": "Poloha: N 48° 15.459' E 16° 58.871'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.06275, 48.33176666666667, 0]
+    },
+    "properties": {
+      "name": "Protivzdušná obrana - LOZORNO",
+      "description": "Poloha: N 48° 19.906' E 17° 3.765'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.38436666666667, 48.23583333333333, 0]
+    },
+    "properties": {
+      "name": "Protivzdušná obrana - Senec",
+      "description": "Poloha: N 48° 14.150' E 17° 23.062'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.12213333333333, 48.71118333333334, 0]
+    },
+    "properties": {
+      "name": "Banská Bystrica_sklady",
+      "description": "Poloha: N 48° 42.671' E 19° 7.328'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.084, 48.59053333333333, 0]
+    },
+    "properties": {
+      "name": "Zvolen sklady po SA",
+      "description": "Poloha: N 48° 35.432' E 19° 5.040'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.35298333333333, 48.19758333333334, 0]
+    },
+    "properties": {
+      "name": "Flakovacia veža Wiedeň, Rakúska republika",
+      "description": "Poloha: N 48° 11.855' E 16° 21.179'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.13671666666667, 47.75438333333333, 0]
+    },
+    "properties": {
+      "name": "Komárno Stará pevnosť",
+      "description": "Poloha: N 47° 45.263' E 18° 8.203'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.19893333333333, 47.745, 0]
+    },
+    "properties": {
+      "name": "IŽA - rímska pevnosť Kelemantia",
+      "description": "Poloha: N 47° 44.700' E 18° 11.936'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.14133333333333, 47.7549, 0]
+    },
+    "properties": {
+      "name": "Komárno_pevnosť_2",
+      "description": "Poloha: N 47° 45.294' E 18° 8.480'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.09931666666667, 47.74875, 0]
+    },
+    "properties": {
+      "name": "Komárom_Monostorska_pevnost_Maďarská_republika",
+      "description": "Poloha: N 47° 44.925' E 18° 5.959'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.7612, 47.88601666666667, 0]
+    },
+    "properties": {
+      "name": "Salka_budova_finančnej_stráže",
+      "description": "Poloha: N  47° 53.161' E 18° 45.672'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.09713333333333, 47.75746666666667, 0]
+    },
+    "properties": {
+      "name": "ZS_21_KO-S3_Ústredňa_Komárno",
+      "description": "Poloha: N 47° 45.448' E 18° 5.828'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.08701666666667, 47.75933333333334, 0]
+    },
+    "properties": {
+      "name": "Komárno_železničný_most",
+      "description": "Poloha: N 47° 45.560' E 18° 5.221'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.21101900001062, 47.74620600006287, 0]
+    },
+    "properties": { "name": "Tankodrom SA Iža" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.62088333333333, 48.34711666666667, 0]
+    },
+    "properties": {
+      "name": "Bunker Lučenec",
+      "description": "Poloha: N 48° 20.827' E 19° 37.253'\nZdroj:  http://www.rozhlas.cz/bunkry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.268, 48.69638333333333, 0]
+    },
+    "properties": {
+      "name": "Sklady",
+      "description": "Poloha: N 48° 41.783' E 21° 16.080'V\nZdroj: ondrej21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.14506666666667, 48.83106666666667, 0]
+    },
+    "properties": {
+      "name": "Partizánsky bunker Mor-ho",
+      "description": "Poloha: N48° 49.864' E19° 8.704"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.45696666666667, 48.97891666666666, 0]
+    },
+    "properties": {
+      "name": "Partizánsky bunker Vranov nad Topľou",
+      "description": "Poloha: N48° 58.735' E21° 27.418'\nhttp://www.panoramio.com/photo/29992593"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.5555, 48.86136666666668, 0]
+    },
+    "properties": {
+      "name": "Partizánsky bunker Chvojnica 1",
+      "description": "Poloha: N48° 51.682' E18° 33.330'\nhttp://www.panoramio.com/photo/53303704"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.36786666666667, 48.73948333333333, 0]
+    },
+    "properties": {
+      "name": "Bunker na Javorovom vŕšku 1",
+      "description": "Poloha: N 48° 44.369' E 18° 22.072'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.36786666666667, 48.73943333333333, 0]
+    },
+    "properties": {
+      "name": "Bunker na Javorovom vŕšku 2",
+      "description": "Poloha: N 48° 44.366' E 18° 22.072'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.36798333333334, 48.73941666666666, 0]
+    },
+    "properties": {
+      "name": "Bunker na Javorovom vŕšku 3",
+      "description": "Poloha: N 48° 44.365' E  18° 22.079'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.20620000068076, 48.8350500005557, 0]
+    },
+    "properties": {
+      "name": "Partizánska nemocnica",
+      "description": "Poloha: N 48° 50.103' E 19° 12.372'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.3695, 48.59633333333332, 0]
+    },
+    "properties": {
+      "name": "Bunker Partizánske",
+      "description": "Poloha: N 48° 35.780' E 18° 22.170'\nhttp://www.panoramio.com/photo/32934204"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.97233333333334, 49.15089999999999, 0]
+    },
+    "properties": {
+      "name": "Bunker Podbanské",
+      "description": "Poloha: N 49° 9.054 E 19° 58.340'\nhttp://www.panoramio.com/photo/58046949"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.56885, 48.86278333333333, 0]
+    },
+    "properties": {
+      "name": "Partizánsky bunker Chvojnica 2",
+      "description": "Poloha: N 48° 51.767' E 18° 34.131'\nhttp://www.panoramio.com/photo/59622089"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.33343333333333, 48.33238333333333, 0]
+    },
+    "properties": {
+      "name": "ÚŽ-6",
+      "description": "Poloha: N 48° 19.943' E 17° 20.006'\nZdroj:  http://www.rozhlas.cz/bunkry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.50535, 48.315727, 0] },
+    "properties": {
+      "name": "Bunker UŽ-6a VEC 5270",
+      "description": "Poloha: N 48° 18.944' E 17° 30.321'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.62793333333334, 49.09155, 0]
+    },
+    "properties": {
+      "name": "UŽ-6a Liptovský Mikuláš",
+      "description": "Poloha: N 49° 5.493' E 19° 37.676'\nZdroj: http://www.mikulas.sk/files/File/uznesenia/uz0712005.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.81846666666667, 48.45038333333335, 0]
+    },
+    "properties": {
+      "name": "ÚŽ-6 Hlohovec",
+      "description": "Poloha: N 48° 27.023' E 17° 49.108'\nZdroj: Castor-28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.23905, 48.60484999999999, 0]
+    },
+    "properties": {
+      "name": "UŽ-6 Borský Mikuláš",
+      "description": "Poloha: N 48° 36.291' E 17° 14.343'\nZdroj:  http://www.rozhlas.cz/bunkry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.02313333333333, 48.19179999999999, 0]
+    },
+    "properties": {
+      "name": "ÚŽ-6 Dúbravka",
+      "description": "Poloha: N 48° 11.508' E 17° 1.388'\nZdroj: Peterko"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.63433333333333, 48.84095000000001, 0]
+    },
+    "properties": {
+      "name": "ÚŽ-6aPoluvsie",
+      "description": "Poloha: N 48° 50.457 'E 18° 38.060'\nZdroj: http://www.mosr.sk/data/files/1355.pdf?PHPSESSID=\nPoznámka: v roku 2009 predávaný za 600€"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [16.930634, 48.127216, 0] },
+    "properties": {
+      "name": "Protiletecký kryt",
+      "description": "<font face=\"arial\" size=\"2\">48.127217, 16.930633</font>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [20.925137, 48.71497699999999, 0]
+    },
+    "properties": {
+      "name": "Protiletecký kryt Bana Lucia",
+      "description": "<div dir=\"ltr\">WW2</div>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.264896, 48.72195800000001, 0]
+    },
+    "properties": {
+      "name": "Protiletecký kryt park",
+      "description": "<div dir=\"ltr\">WW2</div>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.258051, 48.719097, 0] },
+    "properties": {
+      "name": "Protiletecký kryt",
+      "description": "<div dir=\"ltr\">WW2</div>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [20.92594808388717, 48.72446404449961, 0]
+    },
+    "properties": { "name": "Protiletecký kryt Vyšný Medzev" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.129059, 48.178104, 0] },
+    "properties": { "name": "MladaGarda" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.25505767671608, 48.73561564204021, 0]
+    },
+    "properties": { "name": "CO kryt pre daňový úrad" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.271828, 48.723061, 0] },
+    "properties": { "name": "CO kryt SOU" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.267513, 48.723583, 0] },
+    "properties": { "name": "CO kryt stanica" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.273952, 48.690853, 0] },
+    "properties": { "name": "Neznámy CO kryt" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.248985, 48.735489, 0] },
+    "properties": { "name": "Kryt CO - Obrancov mieru 10" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.248095, 48.735168, 0] },
+    "properties": { "name": "Kryt CO - Obrancov mieru 4" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2523, 48.73727, 0] },
+    "properties": { "name": "Kryt CO - Národná trieda 29" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.250734, 48.737511, 0] },
+    "properties": { "name": "Kryt CO - Park obrancov mieru 6" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.250551, 48.737823, 0] },
+    "properties": { "name": "Kryt CO - Hlinkova 24" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.283951, 48.68552, 0] },
+    "properties": { "name": "CO kryt Mäsokombinát" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.248835, 48.73727, 0] },
+    "properties": { "name": "Kryt CO - Hlinkova 14" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.253181, 48.738777, 0] },
+    "properties": { "name": "Kryt CO - Čárskeho 18" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.249577, 48.735706, 0] },
+    "properties": { "name": "Kryt CO - Obrancov mieru 14" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.248405, 48.73634, 0] },
+    "properties": { "name": "Kryt CO - Park duklianskych obetí 1" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.247248, 48.736729, 0] },
+    "properties": { "name": "Kryt CO - Hlinkova 2" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.255304, 48.73636599999999, 0]
+    },
+    "properties": { "name": "Kryt CO - Kustrova 1" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.254822, 48.73687, 0] },
+    "properties": { "name": "Kryt CO - Strakova 3" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.257435, 48.721577, 0] },
+    "properties": { "name": "CO kryt Divadlo" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.234255, 48.71432900000001, 0]
+    },
+    "properties": { "name": "CO kryt MMK" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.210566, 48.71990600000001, 0]
+    },
+    "properties": {
+      "name": "CO kryt SOU",
+      "description": "<div dir=\"ltr\">Nedostavaný</div>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.232924, 48.748859, 0] },
+    "properties": {
+      "name": "CO kryt Čermeľ",
+      "description": "<div dir=\"ltr\">Preistotu nedám súradnice</div>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.254801, 48.737873, 0] },
+    "properties": { "name": "Kryt CO - Strakova 8" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.254929, 48.737335, 0] },
+    "properties": { "name": "Kryt CO - Strakova 4" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.253428, 48.73761, 0] },
+    "properties": { "name": "Kryt CO - Skautská 4" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.252247, 48.738434, 0] },
+    "properties": { "name": "Kryt CO - Hlinkova 32" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.249039, 48.736988, 0] },
+    "properties": { "name": "Kryt CO - Park duklianskych obetí 6" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.25008, 48.73685499999999, 0]
+    },
+    "properties": { "name": "Kryt CO - Park obrancov mieru 3" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.25594988167581, 48.72790471790545, 0]
+    },
+    "properties": { "name": "CO kryt Železničné riaditeľstvo" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.22663831812501, 48.98824601300278, 0]
+    },
+    "properties": { "name": "Prešov 001" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.82018333333333, 48.57795, 0]
+    },
+    "properties": {
+      "name": "Hotel Máj Piešťany",
+      "description": "Poloha: N 48° 34.677' E 17° 49.211'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.81988333333333, 48.57621666666667, 0]
+    },
+    "properties": {
+      "name": "Hotel SOREA Sĺňava Piešťany",
+      "description": "Poloha: N 48° 34.573' E 17° 49.193'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.6091, 49.19025000000001, 0]
+    },
+    "properties": {
+      "name": "Brno CO kryt pri železničnej stanici",
+      "description": "Poloha: N 49° 11.415' E 16° 36.546'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.2870222230263, 49.06953333386419, 0]
+    },
+    "properties": {
+      "name": "Lednicke rovne kryt CO",
+      "description": "Zdroj: Castor-28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.12163333333333, 48.16006666666667, 0]
+    },
+    "properties": {
+      "name": "CO Kryt Račianska",
+      "description": "Poloha: N 48° 9.604' E 17° 7.298'\nZdroj: Hammer_x\nPoznámka: Pod predajňou dm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.02187, 48.19197100000001, 1000000]
+    },
+    "properties": { "name": "Dúbravka 01" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.019011, 48.19268000000001, 1000000]
+    },
+    "properties": { "name": "Dúbravka 02" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.01775, 48.192348, 0] },
+    "properties": { "name": "Dúbravka 03", "description": "<br>" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.015882, 48.191616, 0] },
+    "properties": { "name": "Dúbravka 04", "description": "<br>" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.016001, 48.189049, 0] },
+    "properties": { "name": "Dúbravka 05", "description": "<br>" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.02177, 48.18946499999999, 0]
+    },
+    "properties": { "name": "Dúbravská Hlavica 01" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.01866, 48.188824, 0] },
+    "properties": { "name": "Dúbravská Hlavica 02" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.036209, 48.159031, 0] },
+    "properties": { "name": "Dlhé Diely001" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.03599, 48.15834, 1000000]
+    },
+    "properties": { "name": "Dlhé Diely002" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.035868, 48.15734900000001, 0]
+    },
+    "properties": { "name": "Dlhé Diely003", "description": "<br>" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.035376, 48.154636, 0] },
+    "properties": { "name": "Dlhé Diely004", "description": "<br>" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.034739, 48.151608, 0] },
+    "properties": {
+      "name": "Dlhé Diely005",
+      "description": "<font size=\"2\" face=\"arial\">48.151553, 17.034722</font>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.038303, 48.16165900000001, 0]
+    },
+    "properties": {
+      "name": "Dlhé diely006",
+      "description": "<font size=\"2\" face=\"arial\">48.161661, 17.038303</font>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.05623333333334, 48.17378333333333, 242]
+    },
+    "properties": {
+      "name": "Karlová Ves001-2",
+      "description": "Poloha: N48° 10.427' E017° 3.374'<br>\nVýška: 242m"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.05581666666667, 48.17356666666667, 251]
+    },
+    "properties": {
+      "name": "Karlová Ves001-1",
+      "description": "Poloha: N48° 10.414' E017° 3.349'<br>\nVýška: 251m"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.05633333333334, 48.17051666666666, 263]
+    },
+    "properties": {
+      "name": "Karlová Ves002-1",
+      "description": "Poloha: N48° 10.231' E017° 3.380'<br>\nVýška: 263m"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.05673333333333, 48.17061666666667, 258]
+    },
+    "properties": {
+      "name": "Karlová Ves002-2",
+      "description": "Poloha: N48° 10.237' E017° 3.404'<br>\nVýška: 258m"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.05495912870327, 48.16822150500719, 238]
+    },
+    "properties": {
+      "name": "Karlová Ves003",
+      "description": "Poloha: N48° 10.093' E017° 3.298'<br>\nVýška: 238m"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.055651, 48.166641, 256] },
+    "properties": {
+      "name": "Karlová Ves004",
+      "description": "Poloha: N 48° 9.999' E017° 3.340'<br>\nVýška: 256m"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.0576, 48.16525, 269] },
+    "properties": {
+      "name": "Karlová Ves005-1",
+      "description": "Poloha: N 48° 9.915' E017° 3.456'<br>\nVýška: 269m"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.05765, 48.16526666666667, 269]
+    },
+    "properties": {
+      "name": "Karlová Ves005-2",
+      "description": "Poloha: N48° 9.916' E017° 3.459'<br>\nVýška: 269m"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.05551666666667, 48.1733, 242]
+    },
+    "properties": {
+      "name": "Karlová Ves006",
+      "description": "Poloha: N48° 10.398' E017° 3.331'<br>\nVýška: 242m"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.06625, 48.179371, 1000000]
+    },
+    "properties": { "name": "Lamač 001" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.068541, 48.18012999999999, 0]
+    },
+    "properties": { "name": "Lamač 002" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.07033, 48.180222, 1000000]
+    },
+    "properties": { "name": "Lamač003" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.067982, 48.181377, 0] },
+    "properties": { "name": "Lamač004" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.07523, 48.18122099999999, 1000000]
+    },
+    "properties": { "name": "Železná001" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.07799, 48.18145, 1000000]
+    },
+    "properties": { "name": "Železná002" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.080179, 48.18285, 1000000]
+    },
+    "properties": { "name": "Železná003" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.08522, 48.18269, 1000000]
+    },
+    "properties": { "name": "Kamzik001" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.08617, 48.182838, 1000000]
+    },
+    "properties": { "name": "Kamzik002" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.086941, 48.18233100000001, 1000000]
+    },
+    "properties": { "name": "Kamzik003" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.08602, 48.182091, 1000000]
+    },
+    "properties": { "name": "Kamzik004" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.086809, 48.181622, 1000000]
+    },
+    "properties": { "name": "Kamzik005" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.0924, 48.186699, 0] },
+    "properties": { "name": "Kamzik006" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.096291, 48.185749, 0] },
+    "properties": {
+      "name": "Kamzík007",
+      "description": "48.185750, 17.096290\"<br>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.09516, 48.18677900000001, 0]
+    },
+    "properties": {
+      "name": "Kamzik008",
+      "description": "<font size=\"2\" face=\"arial\">48.186780, 17.095160</font>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.097387, 48.185219, 0] },
+    "properties": { "name": "Kamzik009" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.098352, 48.18755, 0] },
+    "properties": { "name": "Kamzik010", "description": "<br>" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.099447, 48.187035, 0] },
+    "properties": {
+      "name": "Kmazik011",
+      "description": "<font face=\"arial\" size=\"2\">Poloha&nbsp;48.187008,17.099447</font>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.104591, 48.184967, 0] },
+    "properties": {
+      "name": "Kamzík012",
+      "description": "Poloha:&nbsp;48.184966,17.104592<div>Výška: 269m</div>\n<a href=\"http://www.bunkre.info/wp-content/pictures/foto4map/kamzik012.jpg\"><img src=\"http://www.bunkre.info/wp-content/pictures/foto4map/kamzik012male.jpg\"></a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.10665, 48.18535000000001, 0]
+    },
+    "properties": {
+      "name": "Kamzík013",
+      "description": "<font size=\"2\">Poloha:&nbsp;N48° 11.121' E017° 6.399'</font><div><font size=\"2\">Výška: 353m</font></div>\n\n<a href=\"http://www.bunkre.info/wp-content/pictures/foto4map/kamzik013.jpg\"><img src=\"http://www.bunkre.info/wp-content/pictures/foto4map/kamzik013male.jpg\"></a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.1077, 48.18501666666667, 0]
+    },
+    "properties": {
+      "name": "Kamzík 014",
+      "description": "Poloha: N48° 11.101' E017° 6.462'<br><div>Výška: 355</div>\n\n<a href=\"http://www.bunkre.info/wp-content/pictures/foto4map/kamzik014.jpg\"><img src=\"http://www.bunkre.info/wp-content/pictures/foto4map/kamzik014male.jpg\"></a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.10251666666667, 48.18596666666667, 0]
+    },
+    "properties": {
+      "name": "Kamzík015",
+      "description": "Poloha:&nbsp;N48° 11.158' E017° 6.151'<div>Výška: 346m</div>\n<a href=\"http://www.bunkre.info/wp-content/pictures/foto4map/kamzik015.jpg\"><img src=\"http://www.bunkre.info/wp-content/pictures/foto4map/kamzik015male.jpg\"></a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.10826666666667, 48.1845, 0]
+    },
+    "properties": {
+      "name": "Kamzík016",
+      "description": "Poloha:&nbsp;N48° 11.070' E017° 6.496'<div>Výška: ???</div>\n\n<a href=\"http://www.bunkre.info/wp-content/pictures/foto4map/kamzik016.jpg\"><img src=\"http://www.bunkre.info/wp-content/pictures/foto4map/kamzik016male.jpg\"></a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.104788, 48.1842, 0] },
+    "properties": {
+      "name": "Kamzik017",
+      "description": "Poloha: 48.184200,17.104790\nVýška: ???"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.1102, 48.18351666666667, 0]
+    },
+    "properties": {
+      "name": "Ahoj001",
+      "description": "<div dir=\"ltr\">Poloha:  N48° 11.011' E017° 6.612'<br>Výška: 337m</div><a href=\"http://www.bunkre.info/wp-content/pictures/foto4map/ahoj001.jpg\"><img src=\"http://www.bunkre.info/wp-content/pictures/foto4map/ahoj001_mala.jpg\"></a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.116211, 48.182659, 1000000]
+    },
+    "properties": { "name": "Ahoj002" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [17.11997, 48.181721, 0] },
+    "properties": { "name": "Ahoj003" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.25964037769536, 48.70378967152431, 0]
+    },
+    "properties": { "name": "Pozorovateľňa WWII" }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.313831, 48.674046, 0] },
+    "properties": {
+      "name": "Pozorovatelňa Krásna",
+      "description": "<div dir=\"ltr\">\n\tWW2</div>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.259241, 48.703655, 0] },
+    "properties": {
+      "name": "Pozorovatelna Železníky",
+      "description": "<div dir=\"ltr\">WW2</div>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.08908437950031, 48.2964394729144, 0]
+    },
+    "properties": { "name": "Pozorovateľna Nitra" }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.10878333333334, 48.18413333333334, 0]
+    },
+    "properties": {
+      "name": "Kamzík_zákopy001",
+      "description": "Poloha:&nbsp;N48° 11.048' E017° 6.527'div>Výška: 359</div><div>\n\n\n<a href=\"http://www.bunkre.info/wp-content/pictures/foto4map/kamzik_zakopy001.jpg\"><img src=\"http://www.bunkre.info/wp-content/pictures/foto4map/kamzik_zakopy001male.jpg\"></a>\n</div>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.53341666666667, 48.7425, 0]
+    },
+    "properties": {
+      "name": "Zákopy II. WW Dragov",
+      "description": "Poloha: N 48° 44.550' E 21° 32.005'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [19.3951, 49.5375, 0] },
+    "properties": {
+      "name": "Zákopy Oravská Polhora",
+      "description": "Poloha: N 49° 32.250' N 19° 23.706'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.44146666666667, 48.94793333333332, 0]
+    },
+    "properties": {
+      "name": "Zákopy Ulič",
+      "description": "Poloha: N 48° 56.876' E 22° 26.488'\nhttp://www.panoramio.com/photo/45814465"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.4418, 48.95148333333333, 0]
+    },
+    "properties": {
+      "name": "Zákopy Ulič",
+      "description": "Poloha: N 48° 57.089' E 22° 26.508'\nhttp://www.panoramio.com/photo/45814455"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.25351666666667, 48.32158333333334, 0]
+    },
+    "properties": {
+      "name": "Lomené zákopy",
+      "description": "Poloha: N 48° 19.295' E 17° 15.211'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.25423333333333, 48.32683333333333, 0]
+    },
+    "properties": {
+      "name": "Zákopy",
+      "description": "Poloha: N 48° 19.610' E 17° 15.254'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.44395, 48.54013333333334, 0]
+    },
+    "properties": {
+      "name": "Zákopy a diery",
+      "description": "Poloha: N 48° 32.408' E 17° 26.637'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.44528333333333, 48.53625, 0]
+    },
+    "properties": {
+      "name": "Zákopy končiace betonovou skružou",
+      "description": "Poloha: N 48° 32.175' E 17° 26.717'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.43803333333333, 48.94765, 0]
+    },
+    "properties": {
+      "name": "Protitankové zátarasy Ulič",
+      "description": "Poloha: N 48° 56.859' E 22° 26.282'\nhttp://www.panoramio.com/photo/45814471"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.43803333333333, 48.947, 0]
+    },
+    "properties": {
+      "name": "Protitankové zátarasy Ulič 2",
+      "description": "Poloha: N 48° 56.820' E 22° 26.282'\nhttp://www.panoramio.com/photo/26070522"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.44205, 48.95023333333333, 0]
+    },
+    "properties": {
+      "name": "Protitanková priekopa",
+      "description": "Poloha: N 48° 57.014' E 22° 26.523'\nhttp://www.panoramio.com/photo/26071050"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.43981666666667, 48.94656666666667, 0]
+    },
+    "properties": {
+      "name": "Protitankové zátarasy Ulič",
+      "description": "Poloha: N 48° 56.794' E 22° 26.389'\nhttp://www.panoramio.com/photo/52084292"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.25873333333333, 48.31179999999999, 0]
+    },
+    "properties": {
+      "name": "Kocky",
+      "description": "Poloha: N 48° 18.708' E 17° 15.524'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.5992, 48.54128333333333, 0]
+    },
+    "properties": {
+      "name": "Kocky Dechtice",
+      "description": "Poloha: N 48° 32.477' E 17° 35.952'\nZdroj: MacGyver"
+    }
+  }
+]
