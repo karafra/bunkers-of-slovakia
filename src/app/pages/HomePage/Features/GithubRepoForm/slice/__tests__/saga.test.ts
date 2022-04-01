@@ -1,8 +1,8 @@
 import { put, takeLatest } from 'redux-saga/effects';
 import * as slice from '..';
-
-import { githubRepoFormSaga, getRepos } from '../saga';
+import { getRepos, githubRepoFormSaga } from '../saga';
 import { RepoErrorType } from '../types';
+
 
 describe('getRepos Saga', () => {
   let username: any;

@@ -1,11 +1,11 @@
+import { Store } from '@reduxjs/toolkit';
+import { fireEvent, render } from '@testing-library/react';
 import * as React from 'react';
-import { render, fireEvent } from '@testing-library/react';
-
-import { ThemeSwitch } from '..';
 import { Provider } from 'react-redux';
 import { configureAppStore } from 'store/configureStore';
-import { Store } from '@reduxjs/toolkit';
 import { ThemeProvider } from 'styles/theme/ThemeProvider';
+import { ThemeSwitch } from '..';
+
 
 const renderThemeSwitch = (store: Store) =>
   render(

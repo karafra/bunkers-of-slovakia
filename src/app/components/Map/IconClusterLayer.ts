@@ -2,10 +2,8 @@ import { CompositeLayerProps } from '@deck.gl/core/lib/composite-layer';
 import { PickMode } from '@deck.gl/core/lib/deck';
 import Layer, { LayerProps, UpdateStateInfo } from '@deck.gl/core/lib/layer';
 import { IconLayerProps } from '@deck.gl/layers';
-import { PickInfo } from 'deck.gl';
-import { CompositeLayer, IconLayer } from 'deck.gl';
+import { CompositeLayer, IconLayer, PickInfo } from 'deck.gl';
 import Supercluster from 'supercluster';
-
 import Data from './assets/data/data.json';
 import IconAtlas from './assets/icons/location-icon-atlas.png';
 import IconMapping from './assets/icons/location-icon-mapping.json';

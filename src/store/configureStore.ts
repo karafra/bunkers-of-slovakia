@@ -5,7 +5,6 @@ import {
 } from '@reduxjs/toolkit';
 import { createInjectorsEnhancer } from 'redux-injectors';
 import createSagaMiddleware from 'redux-saga';
-
 import { createReducer } from './reducers';
 
 export function configureAppStore() {

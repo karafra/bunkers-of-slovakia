@@ -1,9 +1,9 @@
-import * as React from 'react';
 import { render } from '@testing-library/react';
-
-import { Input } from '../Input';
-import { themes } from 'styles/theme/themes';
+import * as React from 'react';
 import { DefaultTheme } from 'styled-components';
+import { themes } from 'styles/theme/themes';
+import { Input } from '../Input';
+
 
 const renderWithTheme = (theme?: DefaultTheme) =>
   render(<Input theme={theme || themes.light} />);

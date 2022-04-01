@@ -1,9 +1,9 @@
+import { A } from 'app/components/A';
 import * as React from 'react';
 import styled from 'styled-components/macro';
-import { Logos } from './Logos';
-import { Title } from './components/Title';
 import { Lead } from './components/Lead';
-import { A } from 'app/components/A';
+import { Title } from './components/Title';
+import { Logos } from './Logos';
 
 export function Masthead() {
   return (

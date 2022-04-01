@@ -9,7 +9,7 @@ const styles: CSSProperties = {
   backgroundColor: 'whitesmoke',
   position: 'relative',
   minWidth: '240px',
-  maxWidth: "10%",
+  maxWidth: '10%',
   width: 'fit-content',
   blockSize: 'fit-content',
   overflow: 'scroll',

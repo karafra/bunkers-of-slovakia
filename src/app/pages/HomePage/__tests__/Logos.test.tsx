@@ -1,9 +1,9 @@
-import * as React from 'react';
-import { Logos } from '../Logos';
 import { render } from '@testing-library/react';
-import { ThemeProvider, DefaultTheme } from 'styled-components';
-
+import * as React from 'react';
+import { DefaultTheme, ThemeProvider } from 'styled-components';
 import { themes } from 'styles/theme/themes';
+import { Logos } from '../Logos';
+
 
 const renderLogos = (theme: DefaultTheme) =>
   render(

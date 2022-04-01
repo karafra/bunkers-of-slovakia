@@ -2,7 +2,14 @@
 
 exports[`<NotFoundPage /> should match snapshot 1`] = `
 Array [
-  .c3 {
+  .c2 {
+  width: 960px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  box-sizing: content-box;
+}
+
+.c3 {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -62,13 +69,6 @@ Array [
 
 .c7 .icon {
   margin-right: 0.25rem;
-}
-
-.c2 {
-  width: 960px;
-  margin: 0 auto;
-  padding: 0 1.5rem;
-  box-sizing: content-box;
 }
 
 .c0 {
@@ -146,14 +146,7 @@ Array [
       </nav>
     </div>
   </header>,
-  .c2 {
-  font-size: 1rem;
-  line-height: 1.5;
-  color: rgba(58,52,51,0.7);
-  margin: 0.625rem 0 1.5rem 0;
-}
-
-.c3 {
+  .c3 {
   color: rgba(215,113,88,1);
   -webkit-text-decoration: none;
   text-decoration: none;
@@ -167,6 +160,13 @@ Array [
 
 .c3:active {
   opacity: 0.4;
+}
+
+.c2 {
+  font-size: 1rem;
+  line-height: 1.5;
+  color: rgba(58,52,51,0.7);
+  margin: 0.625rem 0 1.5rem 0;
 }
 
 .c0 {

@@ -2,10 +2,10 @@
  * Asynchronously loads the component for HomePage
  */
 
-import * as React from 'react';
-import { lazyLoad } from 'utils/loadable';
 import { LoadingIndicator } from 'app/components/LoadingIndicator';
+import * as React from 'react';
 import styled from 'styled-components/macro';
+import { lazyLoad } from 'utils/loadable';
 
 const LoadingWrapper = styled.div`
   width: 100%;

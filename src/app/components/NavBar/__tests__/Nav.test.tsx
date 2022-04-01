@@ -1,7 +1,7 @@
-import * as React from 'react';
 import { render } from '@testing-library/react';
-import { Nav } from '../Nav';
+import * as React from 'react';
 import { MemoryRouter } from 'react-router-dom';
+import { Nav } from '../Nav';
 
 describe('<Nav />', () => {
   it('should match the snapshot', () => {

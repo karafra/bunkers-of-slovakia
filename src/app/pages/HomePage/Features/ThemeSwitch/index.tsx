@@ -1,12 +1,12 @@
-import * as React from 'react';
 import { FormLabel } from 'app/components/FormLabel';
 import { Radio } from 'app/components/Radio';
+import * as React from 'react';
+import { useDispatch, useSelector } from 'react-redux';
 import styled from 'styled-components/macro';
 import { themeActions } from 'styles/theme/slice';
-import { useDispatch, useSelector } from 'react-redux';
-import { saveTheme } from 'styles/theme/utils';
-import { ThemeKeyType } from 'styles/theme/slice/types';
 import { selectThemeKey } from 'styles/theme/slice/selectors';
+import { ThemeKeyType } from 'styles/theme/slice/types';
+import { saveTheme } from 'styles/theme/utils';
 
 export function ThemeSwitch() {
   const theme = useSelector(selectThemeKey);

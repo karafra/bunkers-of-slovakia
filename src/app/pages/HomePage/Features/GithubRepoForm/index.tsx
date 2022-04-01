@@ -1,19 +1,16 @@
-import React, { useEffect } from 'react';
-import styled from 'styled-components/macro';
-import { useSelector, useDispatch } from 'react-redux';
 import { FormLabel } from 'app/components/FormLabel';
-import { Input } from './components/Input';
-import { RepoItem } from './RepoItem';
-import { TextButton } from './components/TextButton';
-import {
-  selectUsername,
-  selectRepos,
-  selectLoading,
-  selectError,
-} from './slice/selectors';
 import { LoadingIndicator } from 'app/components/LoadingIndicator';
-import { RepoErrorType } from './slice/types';
+import React, { useEffect } from 'react';
+import { useDispatch, useSelector } from 'react-redux';
+import styled from 'styled-components/macro';
+import { Input } from './components/Input';
+import { TextButton } from './components/TextButton';
+import { RepoItem } from './RepoItem';
 import { useGithubRepoFormSlice } from './slice';
+import {
+  selectError, selectLoading, selectRepos, selectUsername
+} from './slice/selectors';
+import { RepoErrorType } from './slice/types';
 
 export function GithubRepoForm() {
   const { actions } = useGithubRepoFormSlice();

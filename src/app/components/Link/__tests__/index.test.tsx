@@ -1,10 +1,10 @@
-import * as React from 'react';
 import { render } from '@testing-library/react';
-
-import { Link } from '../index';
-import { themes } from 'styles/theme/themes';
-import { DefaultTheme } from 'styled-components';
+import * as React from 'react';
 import { MemoryRouter } from 'react-router-dom';
+import { DefaultTheme } from 'styled-components';
+import { themes } from 'styles/theme/themes';
+import { Link } from '../index';
+
 
 const renderWithTheme = (theme?: DefaultTheme) => {
   return render(

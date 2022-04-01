@@ -21,8 +21,8 @@ export function App() {
   return (
     <BrowserRouter>
       <Helmet
-        titleTemplate="%s - Slovakia bunkers"
-        defaultTitle="Slovakia bunkers"
+        titleTemplate="Slovakia bunkers"
+        defaultTitle="Bunkers of Slovakia"
         htmlAttributes={{ lang: i18n.language }}
       >
         <meta

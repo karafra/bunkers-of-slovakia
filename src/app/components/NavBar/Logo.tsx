@@ -4,7 +4,7 @@ import styled from 'styled-components/macro';
 export function Logo() {
   return (
     <Wrapper>
-      <Title>Slovakia bunkers</Title>
+      <Title>Bunkers of Slovakia</Title>
       <Description>Interactive map of bunkers in Slovakia</Description>
     </Wrapper>
   );

@@ -1,5 +1,5 @@
-import * as React from 'react';
 import { render } from '@testing-library/react';
+import * as React from 'react';
 import { RepoItem } from '../RepoItem';
 
 const renderRepoItem = (props: Parameters<typeof RepoItem>[number]) =>

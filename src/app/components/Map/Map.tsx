@@ -1,17 +1,17 @@
+import { MapView } from '@deck.gl/core';
+import DeckGL from '@deck.gl/react';
+import { PickInfo } from 'deck.gl';
 import React, { useState } from 'react';
 import { StaticMap } from 'react-map-gl';
-import DeckGL from '@deck.gl/react';
-import { MapView } from '@deck.gl/core';
-import IconClusterLayer from './IconClusterLayer';
 import HoverTooltip from './HoverTooltip';
+import IconClusterLayer from './IconClusterLayer';
 import PickedTooltip from './PickedTooltip';
-import { PickInfo } from 'deck.gl';
 
 const MAP_VIEW = new MapView({ repeat: true });
 const INITIAL_VIEW_STATE = {
-  longitude: -35,
-  latitude: 36.7,
-  zoom: 1.8,
+  longitude: 19.696058,
+  latitude: 48.6737532,
+  zoom: 7.5,
   maxZoom: 20,
   pitch: 0,
   bearing: 0,

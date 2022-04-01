@@ -1,11 +1,11 @@
-import * as React from 'react';
 import { Store } from '@reduxjs/toolkit';
-import { render, fireEvent } from '@testing-library/react';
-import { Provider } from 'react-redux';
-import { ThemeProvider } from 'styles/theme/ThemeProvider';
+import { fireEvent, render } from '@testing-library/react';
+import * as React from 'react';
 import { HelmetProvider } from 'react-helmet-async';
-import { GithubRepoForm, repoErrorText } from '..';
+import { Provider } from 'react-redux';
 import { configureAppStore } from 'store/configureStore';
+import { ThemeProvider } from 'styles/theme/ThemeProvider';
+import { GithubRepoForm, repoErrorText } from '..';
 import { githubRepoFormActions as actions, initialState } from '../slice';
 import { RepoErrorType } from '../slice/types';
 
