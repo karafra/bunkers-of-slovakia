@@ -120,7 +120,7 @@ Array [
         <div
           className="c4"
         >
-          Slovakia bunkers
+          Bunkers of Slovakia
         </div>
         <div
           className="c5"
@@ -133,14 +133,7 @@ Array [
       >
         <a
           className="c7"
-          href="https://cansahin.gitbook.io/react-boilerplate-cra-template/"
-          rel="noopener noreferrer"
-          target="_blank"
-          title="Documentation Page"
-        />
-        <a
-          className="c7"
-          href="https://github.com/react-boilerplate/react-boilerplate-cra-template"
+          href="https://github.com/karafra/bunkers-of-slovakia"
           rel="noopener noreferrer"
           target="_blank"
           title="Github Page"

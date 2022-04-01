@@ -3,7 +3,7 @@
 exports[`<App /> should render and match the snapshot 1`] = `
 <BrowserRouter>
   <Helmet
-    defaultTitle="Slovakia bunkers"
+    defaultTitle="Bunkers of Slovakia"
     defer={true}
     encodeSpecialCharacters={true}
     htmlAttributes={
@@ -12,7 +12,7 @@ exports[`<App /> should render and match the snapshot 1`] = `
       }
     }
     prioritizeSeoTags={false}
-    titleTemplate="%s - Slovakia bunkers"
+    titleTemplate="Slovakia bunkers"
   >
     <meta
       content="An interactive map of bunkers in Slovakia"

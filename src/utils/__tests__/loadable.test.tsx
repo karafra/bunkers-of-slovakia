@@ -4,17 +4,17 @@ import { lazyLoad } from 'utils/loadable';
 
 const LoadingIndicator = () => <div>Loading</div>;
 
-const LazyComponenWithDefaultExport = lazyLoad(
-  () => import('../../../internals/testing/loadable.mock'),
+const LazyComponentWithDefaultExport = lazyLoad(
+  () => import('./mocks/loadable.mock'),
 );
 
 const LazyComponentWithExportedFunction = lazyLoad(
-  () => import('../../../internals/testing/loadable.mock'),
+  () => import('./mocks/loadable.mock'),
   module => module.ExportedFunc,
 );
 
 const LazyComponentWithFallback = lazyLoad(
-  () => import('../../../internals/testing/loadable.mock'),
+  () => import('./mocks/loadable.mock'),
   undefined,
   {
     fallback: <LoadingIndicator />,
@@ -25,7 +25,7 @@ describe('loadable', () => {
   it('should render null by default', () => {
     const {
       container: { firstChild },
-    } = render(<LazyComponenWithDefaultExport />);
+    } = render(<LazyComponentWithDefaultExport />);
     expect(firstChild).toMatchSnapshot();
   });
 
