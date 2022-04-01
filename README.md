@@ -21,7 +21,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![Apache-2.0 License][license-shield]][license-url]
-
+[![Codecov coverage][codecov-coverage]][codecov-url]
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -201,3 +201,5 @@ Project Link: [https://github.com/karafra/bunkers-of-slovakia](https://github.co
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: .github/img/screenshot.gif
+[codecov-coverage]: https://img.shields.io/codecov/c/gh/karafra/bunkers-of-slovakia?style=for-the-badge&token=bs2rstsAzY
+[codecov-url]: https://app.codecov.io/gh/karafra/bunkers-of-slovakia
