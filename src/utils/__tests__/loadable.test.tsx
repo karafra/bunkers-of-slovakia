@@ -5,16 +5,16 @@ import { lazyLoad } from 'utils/loadable';
 const LoadingIndicator = () => <div>Loading</div>;
 
 const LazyComponentWithDefaultExport = lazyLoad(
-  () => import('./mocks/loadable.mock'),
+  () => import('../__mocks__/loadable.mock'),
 );
 
 const LazyComponentWithExportedFunction = lazyLoad(
-  () => import('./mocks/loadable.mock'),
+  () => import('../__mocks__/loadable.mock'),
   module => module.ExportedFunc,
 );
 
 const LazyComponentWithFallback = lazyLoad(
-  () => import('./mocks/loadable.mock'),
+  () => import('../__mocks__/loadable.mock'),
   undefined,
   {
     fallback: <LoadingIndicator />,
