@@ -4,7 +4,6 @@ import { DefaultTheme } from 'styled-components';
 import { themes } from 'styles/theme/themes';
 import { FormLabel } from '../index';
 
-
 const renderWithTheme = (theme?: DefaultTheme) =>
   render(<FormLabel theme={theme || themes.light} />);
 

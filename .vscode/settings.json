@@ -16,8 +16,5 @@
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "cSpell.words": [
-    "pickable",
-    "Supercluster"
-  ]
+  "cSpell.words": ["pickable", "Supercluster"]
 }

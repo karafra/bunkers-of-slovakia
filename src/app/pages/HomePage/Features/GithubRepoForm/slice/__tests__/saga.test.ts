@@ -3,7 +3,6 @@ import * as slice from '..';
 import { getRepos, githubRepoFormSaga } from '../saga';
 import { RepoErrorType } from '../types';
 
-
 describe('getRepos Saga', () => {
   let username: any;
   let repos: any;

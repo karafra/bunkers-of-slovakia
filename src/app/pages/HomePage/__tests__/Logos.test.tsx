@@ -4,7 +4,6 @@ import { DefaultTheme, ThemeProvider } from 'styled-components';
 import { themes } from 'styles/theme/themes';
 import { Logos } from '../Logos';
 
-
 const renderLogos = (theme: DefaultTheme) =>
   render(
     <ThemeProvider theme={theme}>

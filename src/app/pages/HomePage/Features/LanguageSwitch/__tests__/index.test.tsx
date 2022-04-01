@@ -7,7 +7,6 @@ import { DefaultTheme, ThemeProvider } from 'styled-components';
 import { themes } from 'styles/theme/themes';
 import { LanguageSwitch } from '..';
 
-
 const renderLanguageSwitch = (theme?: DefaultTheme) =>
   render(
     <ThemeProvider theme={theme || themes.light}>

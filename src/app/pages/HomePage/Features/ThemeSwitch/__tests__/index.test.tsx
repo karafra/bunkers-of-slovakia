@@ -6,7 +6,6 @@ import { configureAppStore } from 'store/configureStore';
 import { ThemeProvider } from 'styles/theme/ThemeProvider';
 import { ThemeSwitch } from '..';
 
-
 const renderThemeSwitch = (store: Store) =>
   render(
     <Provider store={store}>

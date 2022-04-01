@@ -4,7 +4,6 @@ import { DefaultTheme, ThemeProvider } from 'styled-components';
 import { themes } from 'styles/theme/themes';
 import { LoadingIndicator } from '../index';
 
-
 const renderWithTheme = (
   props: Parameters<typeof LoadingIndicator>[number] = {},
   theme?: DefaultTheme,

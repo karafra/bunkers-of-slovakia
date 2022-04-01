@@ -8,7 +8,10 @@ import { TextButton } from './components/TextButton';
 import { RepoItem } from './RepoItem';
 import { useGithubRepoFormSlice } from './slice';
 import {
-  selectError, selectLoading, selectRepos, selectUsername
+  selectError,
+  selectLoading,
+  selectRepos,
+  selectUsername,
 } from './slice/selectors';
 import { RepoErrorType } from './slice/types';
 

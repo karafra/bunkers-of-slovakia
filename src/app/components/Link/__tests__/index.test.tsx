@@ -5,7 +5,6 @@ import { DefaultTheme } from 'styled-components';
 import { themes } from 'styles/theme/themes';
 import { Link } from '../index';
 
-
 const renderWithTheme = (theme?: DefaultTheme) => {
   return render(
     <MemoryRouter>

@@ -4,7 +4,6 @@ import { DefaultTheme } from 'styled-components';
 import { themes } from 'styles/theme/themes';
 import { A } from '../index';
 
-
 const renderWithTheme = (theme?: DefaultTheme) =>
   render(<A theme={theme || themes.light} />);
 
