@@ -7,8 +7,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -17,13 +15,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![Apache-2.0 License][license-shield]][license-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -45,8 +42,6 @@
     <a href="https://github.com/karafra/bunkers-of-slovakia/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -73,9 +68,8 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://bunkers-of-slovakia.herokuapp.com/)
@@ -84,36 +78,34 @@ Simple interactive map of all publicly known bunkers in Slovakia, map includes W
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 ### Built With
 
-* [React.js](https://reactjs.org/)
-* [Deck.gl](https://deck.gl)
-* [Jest](https://jestjs.io/)
-* [Prettier](https://prettier.io/)
-* [DeckTypings](@danmarshall/deckgl-typings)
+- [React.js](https://reactjs.org/)
+- [Deck.gl](https://deck.gl)
+- [Jest](https://jestjs.io/)
+- [Prettier](https://prettier.io/)
+- [DeckTypings](@danmarshall/deckgl-typings)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 ### Prerequisites
 
 For running this project you need [Node.js](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com/).
 
-* Node.js
+- Node.js
 
-   For installing Node.js follow steps mentioned [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+  For installing Node.js follow steps mentioned [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
-* yarn
+- yarn
   ```sh
   npm install --global yarn
   ```
 
 ### Installation
-
 
 1. Clone the repo
    ```sh
@@ -132,36 +124,34 @@ Application should now be running at [http://localhost:3000](http://localhost:30
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
+
 ## Usage
+
 Using this application is just as simple as using any other application involving maps such as [Google maps](https://maps.google.com). Just scroll and enjoy 🤷
 
-<!-- 
+<!--
 _For more examples, please refer to the [Documentation](https://bunkers-of-slovakia.herokuapp.com/)_
 
 -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ROADMAP -->
+
 ## Roadmap
 
 - [ ] Add CI
 - [ ] Add Codecov coverage
-- [ ] Fix top bar as it seems empty 
+- [ ] Fix top bar as it seems empty
 - [ ] Add current location pointer
 
 See the [open issues](https://github.com/karafra/bunkers-of-slovakia/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -177,18 +167,16 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See [LICENSE](./LICENSE) for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 Your Name - [@karafro](https://twitter.com/karafro) - dariusKralovic@protonmail.com
@@ -197,11 +185,9 @@ Project Link: [https://github.com/karafra/bunkers-of-slovakia](https://github.co
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/karafra/bunkers-of-slovakia.svg?style=for-the-badge
 [contributors-url]: https://github.com/karafra/bunkers-of-slovakia/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/karafra/bunkers-of-slovakia.svg?style=for-the-badge

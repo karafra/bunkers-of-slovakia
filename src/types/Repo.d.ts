@@ -1,3 +1,4 @@
+/* istanbul ignore file */
 // Copied from '@octokit/rest'
 interface ReposListForksResponseItem {
   archive_url: string;

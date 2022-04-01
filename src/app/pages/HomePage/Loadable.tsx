@@ -1,3 +1,5 @@
+/* istanbul ignore file */
+
 /**
  * Asynchronously loads the component for HomePage
  */

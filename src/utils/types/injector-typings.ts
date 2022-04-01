@@ -1,3 +1,5 @@
+/* istanbul ignore file */
+
 import { AnyAction, Reducer } from '@reduxjs/toolkit';
 import { SagaInjectionModes } from 'redux-injectors';
 import { Saga } from 'redux-saga';
