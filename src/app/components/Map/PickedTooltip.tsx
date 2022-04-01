@@ -7,13 +7,17 @@ const styles: CSSProperties = {
   color: 'black',
   maxHeight: '30%',
   backgroundColor: 'whitesmoke',
-  position: 'absolute',
-  maxWidth: '10%',
+  position: 'relative',
+  minWidth: '240px',
+  maxWidth: "10%",
   width: 'fit-content',
   blockSize: 'fit-content',
   overflow: 'scroll',
   boxShadow: '0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22)',
   overflowX: 'hidden',
+  pointerEvents: 'all',
+  zIndex: 9,
+  fontSize: '12px',
 };
 
 export interface PickedTooltipProps {
@@ -33,7 +37,6 @@ const PickedTooltip = (props: PickedTooltipProps) => {
         ...styles,
         left: props.x + 0,
         top: props.y + 0,
-        position: 'relative',
       }}
     >
       {props.objects.map(obj => {

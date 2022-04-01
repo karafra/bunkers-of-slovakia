@@ -1,21 +1,23 @@
-import { MapView } from '@deck.gl/core';
-import DeckGl from '@deck.gl/react';
-import { PickInfo } from 'deck.gl';
 import React, { useState } from 'react';
 import { StaticMap } from 'react-map-gl';
-import HoverTooltip from './HoverTooltip';
+import DeckGL from '@deck.gl/react';
+import { MapView } from '@deck.gl/core';
 import IconClusterLayer from './IconClusterLayer';
+import HoverTooltip from './HoverTooltip';
 import PickedTooltip from './PickedTooltip';
+import { PickInfo } from 'deck.gl';
 
+const MAP_VIEW = new MapView({ repeat: true });
 const INITIAL_VIEW_STATE = {
-  latitude: 48.6737532,
-  longitude: 19.696058,
-  zoom: 7.5,
-  minZoom: 7,
+  longitude: -35,
+  latitude: 36.7,
+  zoom: 1.8,
   maxZoom: 20,
   pitch: 0,
   bearing: 0,
 };
+const MAP_STYLE =
+  'https://basemaps.cartocdn.com/gl/positron-nolabels-gl-style/style.json';
 
 function renderTooltip(info) {
   const { object, x, y } = info;
@@ -40,9 +42,14 @@ function renderTooltip(info) {
   );
 }
 
-const Map = () => {
-  const [hoverInfo, setHoverInfo] = useState({});
+export interface MapProps {
+  mapStyle?: string;
+  renderTooltip?: (info: PickInfo<any>) => JSX.Element | undefined;
+  id?: string;
+}
 
+const Map = (props: MapProps) => {
+  const [hoverInfo, setHoverInfo] = useState<any>({});
   const hideTooltip = () => {
     setHoverInfo({});
   };
@@ -50,37 +57,37 @@ const Map = () => {
     if (info.picked) {
       setHoverInfo(info);
     } else {
-      hideTooltip();
+      setHoverInfo({});
     }
   };
 
+  const onHover = () => (hoverInfo as any).objects && setHoverInfo;
+
+  const layer = new IconClusterLayer({
+    sizeScale: 40,
+    onHover,
+    id: props.id || 'icon-cluster',
+    pickable: true,
+  } as any);
   return (
-    <>
-      <DeckGl
-        layers={[
-          new IconClusterLayer({
-            sizeScale: 40,
-            onHover: !(hoverInfo as any).objects
-              ? setHoverInfo
-              : console.log('called'),
-          } as any),
-        ]}
-        views={[new MapView({ repeat: true })]}
-        controller={{ dragRotate: false }}
-        initialViewState={INITIAL_VIEW_STATE}
-        onViewStateChange={hideTooltip}
-        onClick={expandTooltip}
-      >
-        <StaticMap
-          reuseMaps
-          mapStyle={
-            'https://basemaps.cartocdn.com/gl/positron-nolabels-gl-style/style.json'
-          }
-          preventStyleDiffing
-        />
-        {renderTooltip(hoverInfo)}
-      </DeckGl>
-    </>
+    <DeckGL
+      layers={[layer]}
+      views={[MAP_VIEW]}
+      initialViewState={INITIAL_VIEW_STATE}
+      controller={{ dragRotate: false }}
+      onViewStateChange={hideTooltip}
+      onClick={expandTooltip}
+    >
+      <StaticMap
+        reuseMaps
+        mapStyle={props.mapStyle || MAP_STYLE}
+        preventStyleDiffing={true}
+      />
+
+      {props.renderTooltip
+        ? props.renderTooltip(hoverInfo)
+        : renderTooltip(hoverInfo)}
+    </DeckGL>
   );
 };
 
