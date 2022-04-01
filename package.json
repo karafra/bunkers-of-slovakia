@@ -77,15 +77,13 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "start:prod": "yarn run build && serve -s build",
-    "test:generators": "ts-node ./internals/testing/generators/test-generators.ts",
     "checkTs": "tsc --noEmit",
+    "test:ci": "react-scripts test --ci --coverage --reporters=default",
     "eslint": "eslint --ext js,ts,tsx",
     "lint": "yarn run eslint src",
     "lint:fix": "yarn run eslint --fix src",
     "lint:css": "stylelint src/**/*.css",
-    "generate": "plop --plopfile internals/generators/plopfile.ts",
-    "cleanAndSetup": "ts-node ./internals/scripts/clean.ts",
-    "prettify": "prettier --write",
+    "prettify": "prettier --write .",
     "extract-messages": "i18next-scanner --config=internals/extractMessages/i18next-scanner.config.js"
   },
   "eslintConfig": {
@@ -121,8 +119,7 @@
       "!src/**/*/Loadable.{js,jsx,ts,tsx}",
       "!src/**/*/messages.ts",
       "!src/**/*/types.ts",
-      "!src/index.tsx",
-      "!src/**/*/*.mock.tsx"
+      "!src/index.tsx"
     ],
     "coverageThreshold": {
       "global": {
