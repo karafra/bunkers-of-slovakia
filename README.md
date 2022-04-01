@@ -142,7 +142,7 @@ _For more examples, please refer to the [Documentation](https://bunkers-of-slova
 ## Roadmap
 
 - [ ] Add CI
-- [ ] Add Codecov coverage
+- [x] Add Codecov coverage
 - [ ] Fix top bar as it seems empty
 - [ ] Add current location pointer
 
