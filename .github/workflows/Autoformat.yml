@@ -1,0 +1,28 @@
+name: Format code
+
+on:
+  push:
+    branches:
+      - 'master'
+  workflow_dispatch:
+    
+jobs:
+  Format-code:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ steps.nvm.outputs.NODE_VERSION }}
+      - name: Install yarn
+        run: npm install --global yarn
+      - name: Install dependencies
+        run: yarn
+      - name: Format code
+        run: yarn prettify
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: ":robot: Automated code formatting"
