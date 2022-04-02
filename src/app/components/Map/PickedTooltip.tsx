@@ -35,8 +35,8 @@ const PickedTooltip = (props: PickedTooltipProps) => {
       className="tooltip interactive"
       style={{
         ...styles,
-        left: props.x ,
-        top: props.y ,
+        left: props.x,
+        top: props.y,
       }}
     >
       {props.objects.map(obj => {

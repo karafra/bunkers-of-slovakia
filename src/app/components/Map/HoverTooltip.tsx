@@ -39,7 +39,7 @@ const styles: CSSProperties = {
 const HoverTooltip = (props: HoverTooltipProps) => {
   const cluster = props.cluster || false;
   return cluster ? (
-    <div style={{ ...styles, left: props.x , top: props.y  }}>
+    <div style={{ ...styles, left: props.x, top: props.y }}>
       {props.count} buildings
     </div>
   ) : (
@@ -47,8 +47,8 @@ const HoverTooltip = (props: HoverTooltipProps) => {
       className="tooltip"
       style={{
         ...styles,
-        left: props.x ,
-        top: props.y ,
+        left: props.x,
+        top: props.y,
       }}
     >
       {props.name}
