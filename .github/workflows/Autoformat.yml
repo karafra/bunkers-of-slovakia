@@ -22,7 +22,8 @@ jobs:
         run: yarn
       - name: Format code
         run: yarn prettify
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Commit & Push changes
+        uses: actions-js/push@master
         with:
-          commit_message: ':robot: Automated code formatting'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: ':robot: Automated code formatting'
