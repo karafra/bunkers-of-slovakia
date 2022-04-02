@@ -8,7 +8,29 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  Format-code:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ steps.nvm.outputs.NODE_VERSION }}
+      - name: Install yarn
+        run: npm install --global yarn
+      - name: Install dependencies
+        run: yarn
+      - name: Format code
+        run: yarn prettify
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: ':robot: Automated code formatting'
+          branch: 'master'
+  Build-And-Test:
+    needs: Format-code
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
