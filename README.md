@@ -22,6 +22,7 @@
 [![Issues][issues-shield]][issues-url]
 [![Apache-2.0 License][license-shield]][license-url]
 [![Codecov coverage][codecov-coverage]][codecov-url]
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
