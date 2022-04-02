@@ -72,6 +72,7 @@
     "web-vitals": "2.1.2"
   },
   "scripts": {
+    "heroku-postbuild": "yarn global add serve",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -83,7 +84,7 @@
     "lint": "yarn run eslint src",
     "lint:fix": "yarn run eslint --fix src",
     "lint:css": "stylelint src/**/*.css",
-    "prettify": "prettier --write .",
+    "prettify": "prettier --write",
     "extract-messages": "i18next-scanner --config=internals/extractMessages/i18next-scanner.config.js"
   },
   "eslintConfig": {
