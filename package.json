@@ -72,7 +72,7 @@
     "web-vitals": "2.1.2"
   },
   "scripts": {
-    "heroku-postbuild": "yarn global add serve",
+    "heroku-postbuild": "yarn build && yarn global add serve",
     "start": "react-scripts start",
     "serve": "serve -s build",
     "build": "react-scripts build",
