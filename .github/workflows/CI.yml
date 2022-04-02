@@ -6,7 +6,7 @@ on:
       - 'main'
       - 'master'
   workflow_dispatch:
-    
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -34,4 +34,3 @@ jobs:
         with:
           name: coverage
           path: ./coverage/
-
