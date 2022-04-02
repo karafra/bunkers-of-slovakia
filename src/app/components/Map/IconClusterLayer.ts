@@ -1,3 +1,6 @@
+/* istanbul ignore file */
+// TODO: Figure out how to fuck with Map.gl testing shit
+
 import { CompositeLayerProps } from '@deck.gl/core/lib/composite-layer';
 import { PickMode } from '@deck.gl/core/lib/deck';
 import Layer, { LayerProps, UpdateStateInfo } from '@deck.gl/core/lib/layer';

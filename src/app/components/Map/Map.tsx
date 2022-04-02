@@ -1,3 +1,6 @@
+/* istanbul ignore file */
+// TODO: Figure out how to fuck with Map.gl testing shit
+
 import { MapView } from '@deck.gl/core';
 import DeckGL from '@deck.gl/react';
 import { PickInfo } from 'deck.gl';
