@@ -5,7 +5,7 @@ on:
     branches:
       - 'master'
   workflow_dispatch:
-    
+
 jobs:
   Format-code:
     runs-on: ubuntu-latest
@@ -25,4 +25,4 @@ jobs:
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: ":robot: Automated code formatting"
+          commit_message: ':robot: Automated code formatting'
