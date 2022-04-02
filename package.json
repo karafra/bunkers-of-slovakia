@@ -28,6 +28,7 @@
     "@types/webpack-env": "1.16.3",
     "chalk": "4.1.2",
     "cross-env": "7.0.3",
+    "deck.gl": "^8.7.0",
     "eslint-config-prettier": "8.3.0",
     "eslint-plugin-prettier": "4.0.0",
     "eslint-plugin-react-hooks": "4.3.0",
@@ -62,7 +63,6 @@
     "shelljs": "0.8.5",
     "styled-components": "5.3.3",
     "stylelint": "14.2.0",
-    "deck.gl": "^8.7.0",
     "stylelint-config-recommended": "6.0.0",
     "stylelint-config-styled-components": "0.1.1",
     "stylelint-processor-styled-components": "1.10.0",
@@ -118,9 +118,10 @@
     ],
     "coverageThreshold": {
       "global": {
-        "functions": 80,
-        "lines": 80,
-        "statements": 80
+        "branches": 90,
+        "functions": 90,
+        "lines": 90,
+        "statements": 90
       }
     }
   }
