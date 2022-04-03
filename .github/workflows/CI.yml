@@ -16,6 +16,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
+          cache: yarn
           node-version: ${{ steps.nvm.outputs.NODE_VERSION }}
       - name: Install yarn
         run: npm install --global yarn
@@ -38,6 +39,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
+          cache: yarn
           node-version: ${{ steps.nvm.outputs.NODE_VERSION }}
       - name: Install yarn
         run: npm install --global yarn
