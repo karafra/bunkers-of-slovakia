@@ -5,10 +5,36 @@ on:
     branches:
       - 'main'
       - 'master'
+    paths:
+      - '*.tsx'
   workflow_dispatch:
 
 jobs:
+  Format-CSS:
+    name: Format CSS
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          cache: yarn
+          node-version: ${{ steps.nvm.outputs.NODE_VERSION }}
+      - name: Install yarn
+        run: npm install --global yarn
+      - name: Install dependencies
+        run: yarn
+      - name: Format code
+        run: yarn lint:css
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: ':robot: Automated code formatting'
+          branch: 'master'
   Format-code:
+    name: Format code
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -31,6 +57,7 @@ jobs:
           message: ':robot: Automated code formatting'
           branch: 'master'
   Build-And-Test:
+    name: Build and test project
     needs: Format-code
     runs-on: ubuntu-latest
     steps:
@@ -58,3 +85,31 @@ jobs:
         with:
           name: coverage
           path: ./coverage/
+
+  Build-Documentation:
+    name: Build documentation
+    needs: 
+      - Build-And-Test
+      - Format-code
+      - Format-CSS
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          cache: yarn
+          node-version: ${{ steps.nvm.outputs.NODE_VERSION }}
+      - name: Install yarn
+        run: npm install --global yarn
+      - name: Install dependencies
+        run: yarn
+      - name: Format code
+        run: yarn build-storybook
+      - name: GH pages deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: docs
+          force_orphan: true
