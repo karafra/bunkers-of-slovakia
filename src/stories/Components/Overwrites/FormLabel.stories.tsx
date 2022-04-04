@@ -1,6 +1,7 @@
+/* istanbul ignore file */
+
+import { ComponentMeta, ComponentStory } from '@storybook/react';
 import React from 'react';
-import { ComponentStory, ComponentMeta } from '@storybook/react';
-import { within, userEvent } from '@storybook/testing-library';
 import { FormLabel as FormLabelComponent } from '../../../app/components/FormLabel';
 
 export default {

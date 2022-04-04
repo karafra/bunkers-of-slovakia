@@ -1,6 +1,7 @@
+/* istanbul ignore file */
+
+import { ComponentMeta, ComponentStory } from '@storybook/react';
 import React from 'react';
-import { ComponentStory, ComponentMeta } from '@storybook/react';
-import { within, userEvent } from '@storybook/testing-library';
 import { LoadingIndicator as Component } from '../../../app/components/LoadingIndicator';
 
 export default {

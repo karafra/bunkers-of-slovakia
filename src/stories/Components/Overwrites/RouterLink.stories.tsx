@@ -1,8 +1,9 @@
+/* istanbul ignore file */
+
+import { ComponentMeta, ComponentStory } from '@storybook/react';
 import React from 'react';
-import { ComponentStory, ComponentMeta } from '@storybook/react';
-import { within, userEvent } from '@storybook/testing-library';
-import { Link as Component } from '../../../app/components/Link';
 import { BrowserRouter } from 'react-router-dom';
+import { Link as Component } from '../../../app/components/Link';
 
 export default {
   title: 'Shared/Overwrites',

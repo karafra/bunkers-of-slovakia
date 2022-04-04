@@ -1,5 +1,7 @@
+/* istanbul ignore file */
+
+import { ComponentMeta, ComponentStory } from '@storybook/react';
 import React from 'react';
-import { ComponentStory, ComponentMeta } from '@storybook/react';
 import { NavBar as Component } from '../../../app/components/NavBar';
 
 export default {
