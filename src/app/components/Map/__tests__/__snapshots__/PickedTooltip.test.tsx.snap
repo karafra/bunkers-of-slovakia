@@ -3,11 +3,15 @@
 exports[`<PickedTooltip /> Should render tooltip 1`] = `
 Object {
   "asFragment": [Function],
-  "baseElement": <body>
+  "baseElement": .c0 {
+  padding: '10px',border-radius:'5px',color:'black',max-height:'30%',background-color:'whitesmoke',position:'relative',min-width:'240px',max-width:'10%',width:'fit-content',block-size:'fit-content',overflow:'scroll',box-shadow:'0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22)',overflow-x:'hidden',pointer-events:'all',z-index:9,font-size:'12px',;
+}
+
+<body>
     <div>
       <div
-        class="tooltip interactive"
-        style="padding: 10px; border-radius: 5px; color: black; max-height: 30%; background-color: whitesmoke; position: relative; min-width: 240px; max-width: 10%; block-size: fit-content; overflow: scroll; box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22); overflow-x: hidden; pointer-events: all; z-index: 9; font-size: 12px; left: 0px; top: 0px;"
+        class="c0 tooltip"
+        style="left: 0px; top: 0px;"
       >
         <div>
           <h5>
@@ -30,10 +34,14 @@ Object {
       </div>
     </div>
   </body>,
-  "container": <div>
+  "container": .c0 {
+  padding: '10px',border-radius:'5px',color:'black',max-height:'30%',background-color:'whitesmoke',position:'relative',min-width:'240px',max-width:'10%',width:'fit-content',block-size:'fit-content',overflow:'scroll',box-shadow:'0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22)',overflow-x:'hidden',pointer-events:'all',z-index:9,font-size:'12px',;
+}
+
+<div>
     <div
-      class="tooltip interactive"
-      style="padding: 10px; border-radius: 5px; color: black; max-height: 30%; background-color: whitesmoke; position: relative; min-width: 240px; max-width: 10%; block-size: fit-content; overflow: scroll; box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22); overflow-x: hidden; pointer-events: all; z-index: 9; font-size: 12px; left: 0px; top: 0px;"
+      class="c0 tooltip"
+      style="left: 0px; top: 0px;"
     >
       <div>
         <h5>
@@ -112,11 +120,15 @@ Object {
 exports[`<PickedTooltip /> Should render tooltip without 1`] = `
 Object {
   "asFragment": [Function],
-  "baseElement": <body>
+  "baseElement": .c0 {
+  padding: '10px',border-radius:'5px',color:'black',max-height:'30%',background-color:'whitesmoke',position:'relative',min-width:'240px',max-width:'10%',width:'fit-content',block-size:'fit-content',overflow:'scroll',box-shadow:'0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22)',overflow-x:'hidden',pointer-events:'all',z-index:9,font-size:'12px',;
+}
+
+<body>
     <div>
       <div
-        class="tooltip interactive"
-        style="padding: 10px; border-radius: 5px; color: black; max-height: 30%; background-color: whitesmoke; position: relative; min-width: 240px; max-width: 10%; block-size: fit-content; overflow: scroll; box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22); overflow-x: hidden; pointer-events: all; z-index: 9; font-size: 12px; left: 0px; top: 0px;"
+        class="c0 tooltip"
+        style="left: 0px; top: 0px;"
       >
         <div>
           <h5>
@@ -130,10 +142,14 @@ Object {
       </div>
     </div>
   </body>,
-  "container": <div>
+  "container": .c0 {
+  padding: '10px',border-radius:'5px',color:'black',max-height:'30%',background-color:'whitesmoke',position:'relative',min-width:'240px',max-width:'10%',width:'fit-content',block-size:'fit-content',overflow:'scroll',box-shadow:'0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22)',overflow-x:'hidden',pointer-events:'all',z-index:9,font-size:'12px',;
+}
+
+<div>
     <div
-      class="tooltip interactive"
-      style="padding: 10px; border-radius: 5px; color: black; max-height: 30%; background-color: whitesmoke; position: relative; min-width: 240px; max-width: 10%; block-size: fit-content; overflow: scroll; box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22); overflow-x: hidden; pointer-events: all; z-index: 9; font-size: 12px; left: 0px; top: 0px;"
+      class="c0 tooltip"
+      style="left: 0px; top: 0px;"
     >
       <div>
         <h5>

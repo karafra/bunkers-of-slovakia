@@ -3,22 +3,30 @@
 exports[`<HoverTooltip /> should render tooltip cluster 1`] = `
 Object {
   "asFragment": [Function],
-  "baseElement": <body>
+  "baseElement": .c0 {
+  padding: '10px',border-radius:'5px',color:'black',background-color:'whitesmoke',position:'absolute',min-width:'240px',max-width:'10%',width:'fit-content',block-size:'fit-content',overflow:'scroll',box-shadow:'0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22)',overflow-x:'hidden',pointer-events:'none',;
+}
+
+<body>
     <div>
       <div
-        style="padding: 10px; border-radius: 5px; color: black; background-color: whitesmoke; position: absolute; min-width: 240px; max-width: 10%; block-size: fit-content; overflow: scroll; box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22); overflow-x: hidden; pointer-events: none; left: 0px; top: 0px;"
+        class="c0 tooltip"
+        style="left: 0px; top: 0px;"
       >
-        25
-         buildings
+        25 buildings
       </div>
     </div>
   </body>,
-  "container": <div>
+  "container": .c0 {
+  padding: '10px',border-radius:'5px',color:'black',background-color:'whitesmoke',position:'absolute',min-width:'240px',max-width:'10%',width:'fit-content',block-size:'fit-content',overflow:'scroll',box-shadow:'0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22)',overflow-x:'hidden',pointer-events:'none',;
+}
+
+<div>
     <div
-      style="padding: 10px; border-radius: 5px; color: black; background-color: whitesmoke; position: absolute; min-width: 240px; max-width: 10%; block-size: fit-content; overflow: scroll; box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22); overflow-x: hidden; pointer-events: none; left: 0px; top: 0px;"
+      class="c0 tooltip"
+      style="left: 0px; top: 0px;"
     >
-      25
-       buildings
+      25 buildings
     </div>
   </div>,
   "debug": [Function],
@@ -78,24 +86,36 @@ Object {
 exports[`<HoverTooltip /> should render tooltip cluster with description 1`] = `
 Object {
   "asFragment": [Function],
-  "baseElement": <body>
+  "baseElement": .c0 {
+  padding: '10px',border-radius:'5px',color:'black',background-color:'whitesmoke',position:'absolute',min-width:'240px',max-width:'10%',width:'fit-content',block-size:'fit-content',overflow:'scroll',box-shadow:'0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22)',overflow-x:'hidden',pointer-events:'none',;
+}
+
+<body>
     <div>
       <div
-        class="tooltip"
-        style="padding: 10px; border-radius: 5px; color: black; background-color: whitesmoke; position: absolute; min-width: 240px; max-width: 10%; block-size: fit-content; overflow: scroll; box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22); overflow-x: hidden; pointer-events: none; left: 0px; top: 0px;"
+        class="c0 tooltip"
+        style="left: 0px; top: 0px;"
       >
-        name
-         (description)
+        <div>
+          name
+           (description)
+        </div>
       </div>
     </div>
   </body>,
-  "container": <div>
+  "container": .c0 {
+  padding: '10px',border-radius:'5px',color:'black',background-color:'whitesmoke',position:'absolute',min-width:'240px',max-width:'10%',width:'fit-content',block-size:'fit-content',overflow:'scroll',box-shadow:'0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22)',overflow-x:'hidden',pointer-events:'none',;
+}
+
+<div>
     <div
-      class="tooltip"
-      style="padding: 10px; border-radius: 5px; color: black; background-color: whitesmoke; position: absolute; min-width: 240px; max-width: 10%; block-size: fit-content; overflow: scroll; box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22); overflow-x: hidden; pointer-events: none; left: 0px; top: 0px;"
+      class="c0 tooltip"
+      style="left: 0px; top: 0px;"
     >
-      name
-       (description)
+      <div>
+        name
+         (description)
+      </div>
     </div>
   </div>,
   "debug": [Function],
@@ -155,24 +175,36 @@ Object {
 exports[`<HoverTooltip /> should render tooltip cluster without description 1`] = `
 Object {
   "asFragment": [Function],
-  "baseElement": <body>
+  "baseElement": .c0 {
+  padding: '10px',border-radius:'5px',color:'black',background-color:'whitesmoke',position:'absolute',min-width:'240px',max-width:'10%',width:'fit-content',block-size:'fit-content',overflow:'scroll',box-shadow:'0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22)',overflow-x:'hidden',pointer-events:'none',;
+}
+
+<body>
     <div>
       <div
-        class="tooltip"
-        style="padding: 10px; border-radius: 5px; color: black; background-color: whitesmoke; position: absolute; min-width: 240px; max-width: 10%; block-size: fit-content; overflow: scroll; box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22); overflow-x: hidden; pointer-events: none; left: 0px; top: 0px;"
+        class="c0 tooltip"
+        style="left: 0px; top: 0px;"
       >
-        name
-        
+        <div>
+          name
+          
+        </div>
       </div>
     </div>
   </body>,
-  "container": <div>
+  "container": .c0 {
+  padding: '10px',border-radius:'5px',color:'black',background-color:'whitesmoke',position:'absolute',min-width:'240px',max-width:'10%',width:'fit-content',block-size:'fit-content',overflow:'scroll',box-shadow:'0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22)',overflow-x:'hidden',pointer-events:'none',;
+}
+
+<div>
     <div
-      class="tooltip"
-      style="padding: 10px; border-radius: 5px; color: black; background-color: whitesmoke; position: absolute; min-width: 240px; max-width: 10%; block-size: fit-content; overflow: scroll; box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22); overflow-x: hidden; pointer-events: none; left: 0px; top: 0px;"
+      class="c0 tooltip"
+      style="left: 0px; top: 0px;"
     >
-      name
-      
+      <div>
+        name
+        
+      </div>
     </div>
   </div>,
   "debug": [Function],
