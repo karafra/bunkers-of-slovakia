@@ -82,7 +82,7 @@
     "checkTs": "tsc --noEmit",
     "test:ci": "react-scripts test --ci --coverage --reporters=default",
     "lint:css": "stylelint src/**/*.css",
-    "prettify": "prettier --write",
+    "prettify": "prettier --write .",
     "storybook": "start-storybook -p 6006 -s public",
     "build-storybook": "build-storybook -o docs -s public"
   },
