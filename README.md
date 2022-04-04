@@ -22,7 +22,7 @@
 [![Issues][issues-shield]][issues-url]
 [![Apache-2.0 License][license-shield]][license-url]
 [![Codecov coverage][codecov-coverage]][codecov-url]
-
+[![Deploy status][netlify-deploy]][netlify-url]
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -35,8 +35,10 @@
   <p align="center">
     Simple interactive map of Slovakian war bunkers
     <br />
+    <a href="https://karafra.github.io/bunkers-of-slovakia"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/karafra/bunkers-of-slovakia">View Demo</a>
+    <br />
+    <a href="https://bunkers-of-slovakia.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/karafra/bunkers-of-slovakia/issues">Report Bug</a>
     ·
@@ -73,7 +75,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://bunkers-of-slovakia.herokuapp.com/)
+[![Product Name Screen Shot][product-screenshot]](https://bunkers-of-slovakia.netlify.app/)
 
 Simple interactive map of all publicly known bunkers in Slovakia, map includes WW1, WW2, Cold war and post cold war bunkers.
 
@@ -131,10 +133,7 @@ Application should now be running at [http://localhost:3000](http://localhost:30
 
 Using this application is just as simple as using any other application involving maps such as [Google maps](https://maps.google.com). Just scroll and enjoy 🤷
 
-<!--
-_For more examples, please refer to the [Documentation](https://bunkers-of-slovakia.herokuapp.com/)_
-
--->
+_For more examples, please refer to the [Documentation](https://karafra.github.io/bunkers-of-slovakia/)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -204,3 +203,5 @@ Project Link: [https://github.com/karafra/bunkers-of-slovakia](https://github.co
 [product-screenshot]: .github/img/screenshot.gif
 [codecov-coverage]: https://img.shields.io/codecov/c/gh/karafra/bunkers-of-slovakia?style=for-the-badge&token=bs2rstsAzY
 [codecov-url]: https://app.codecov.io/gh/karafra/bunkers-of-slovakia
+[netlify-deploy]: https://img.shields.io/netlify/6d5cc52b-0a63-4b41-8f77-316a66e94796?color=%20%2300AD9F%20&label=Deploy&logoColor=Deployed&style=for-the-badge
+[netlify-url]: https://bunkers-of-slovakia.netlify.app/
