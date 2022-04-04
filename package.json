@@ -81,15 +81,23 @@
     "start:prod": "yarn run build && serve -s build",
     "checkTs": "tsc --noEmit",
     "test:ci": "react-scripts test --ci --coverage --reporters=default",
-    "eslint": "eslint --ext js,ts,tsx",
-    "lint": "yarn run eslint src",
-    "lint:fix": "yarn run eslint --fix src",
     "lint:css": "stylelint src/**/*.css",
     "prettify": "prettier --write",
-    "extract-messages": "i18next-scanner --config=internals/extractMessages/i18next-scanner.config.js"
+    "storybook": "start-storybook -p 6006 -s public",
+    "build-storybook": "build-storybook -o docs -s public"
   },
   "eslintConfig": {
-    "extends": "react-app"
+    "extends": "react-app",
+    "overrides": [
+      {
+        "files": [
+          "**/*.stories.*"
+        ],
+        "rules": {
+          "import/no-anonymous-default-export": "off"
+        }
+      }
+    ]
   },
   "browserslist": {
     "production": [
@@ -126,5 +134,19 @@
         "statements": 90
       }
     }
+  },
+  "devDependencies": {
+    "@storybook/addon-actions": "^6.4.20",
+    "@storybook/addon-essentials": "^6.4.20",
+    "@storybook/addon-interactions": "^6.4.20",
+    "@storybook/addon-links": "^6.4.20",
+    "@storybook/builder-webpack5": "^6.4.20",
+    "@storybook/manager-webpack5": "^6.4.20",
+    "@storybook/node-logger": "^6.4.20",
+    "@storybook/preset-create-react-app": "^4.1.0",
+    "@storybook/react": "^6.4.20",
+    "@storybook/testing-library": "^0.0.9",
+    "storybook-addon-styled-component-theme": "2.0.0",
+    "webpack": "^5.71.0"
   }
 }
