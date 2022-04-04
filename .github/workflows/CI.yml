@@ -58,7 +58,9 @@ jobs:
           branch: 'master'
   Build-And-Test:
     name: Build and test project
-    needs: Format-code
+    needs: 
+      - Format-code
+      - Format-CSS
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
