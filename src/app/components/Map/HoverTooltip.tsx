@@ -13,7 +13,7 @@ export interface HoverTooltipProps {
 const HoverTooltip = (props: HoverTooltipProps) => {
   const cluster = props.cluster || false;
   return (
-    <Wrapper style={{ left: props.x, top: props.y }} className={"tooltip"}>
+    <Wrapper style={{ left: props.x, top: props.y }} className={'tooltip'}>
       {cluster ? (
         `${props.count} buildings`
       ) : (

@@ -23,6 +23,7 @@
 [![Apache-2.0 License][license-shield]][license-url]
 [![Codecov coverage][codecov-coverage]][codecov-url]
 [![Deploy status][netlify-deploy]][netlify-url]
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">

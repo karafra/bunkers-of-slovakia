@@ -36,26 +36,25 @@
         overflow: hidden;
       }
 
+      .tooltip {
+        pointer-events: none;
+        position: absolute;
+        z-index: 9;
+        font-size: 12px;
+        padding: 8px;
+        background: #000;
+        color: #fff;
+        min-width: 160px;
+        max-height: 240px;
+        overflow-y: hidden;
+      }
 
-    .tooltip {
-      pointer-events: none;
-      position: absolute;
-      z-index: 9;
-      font-size: 12px;
-      padding: 8px;
-      background: #000;
-      color: #fff;
-      min-width: 160px;
-      max-height: 240px;
-      overflow-y: hidden;
-    }
-
-    .tooltip.interactive {
-      pointer-events: all;
-      background: #fcfcfc;
-      color: #444;
-      overflow-y: auto;
-    }
+      .tooltip.interactive {
+        pointer-events: all;
+        background: #fcfcfc;
+        color: #444;
+        overflow-y: auto;
+      }
     </style>
     <title>Bunkers of Slovakia</title>
     <meta name="description" content="" />

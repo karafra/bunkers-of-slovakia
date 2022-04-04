@@ -17,7 +17,7 @@ const PickedTooltip = (props: PickedTooltipProps) => {
         left: props.x,
         top: props.y,
       }}
-      className={"tooltip"}
+      className={'tooltip'}
     >
       {props.objects.map(obj => {
         return (
