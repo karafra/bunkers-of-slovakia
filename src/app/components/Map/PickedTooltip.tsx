@@ -1,24 +1,5 @@
 import React from 'react';
-import { CSSProperties } from 'styled-components';
-
-const styles: CSSProperties = {
-  padding: '10px',
-  borderRadius: '5px',
-  color: 'black',
-  maxHeight: '30%',
-  backgroundColor: 'whitesmoke',
-  position: 'relative',
-  minWidth: '240px',
-  maxWidth: '10%',
-  width: 'fit-content',
-  blockSize: 'fit-content',
-  overflow: 'scroll',
-  boxShadow: '0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22)',
-  overflowX: 'hidden',
-  pointerEvents: 'all',
-  zIndex: 9,
-  fontSize: '12px',
-};
+import styled from 'styled-components/macro';
 
 export interface PickedTooltipProps {
   x: number;
@@ -31,13 +12,12 @@ export interface PickedTooltipProps {
 
 const PickedTooltip = (props: PickedTooltipProps) => {
   return (
-    <div
-      className="tooltip interactive"
+    <Wrapper
       style={{
-        ...styles,
         left: props.x,
         top: props.y,
       }}
+      className={"tooltip"}
     >
       {props.objects.map(obj => {
         return (
@@ -47,8 +27,27 @@ const PickedTooltip = (props: PickedTooltipProps) => {
           </div>
         );
       })}
-    </div>
+    </Wrapper>
   );
 };
+
+const Wrapper = styled.div`
+  padding: '10px',
+  border-radius: '5px',
+  color: 'black',
+  max-height: '30%',
+  background-color: 'whitesmoke',
+  position: 'relative',
+  min-width: '240px',
+  max-width: '10%',
+  width: 'fit-content',
+  block-size: 'fit-content',
+  overflow: 'scroll',
+  box-shadow: '0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22)',
+  overflow-x: 'hidden',
+  pointer-events: 'all',
+  z-index: 9,
+  font-size: '12px',
+`;
 
 export default PickedTooltip;

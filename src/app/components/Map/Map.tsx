@@ -32,15 +32,15 @@ function renderTooltip(info) {
   if (!object) {
     return null;
   }
-
-  return object.cluster ? (
-    <HoverTooltip x={x} y={y} cluster count={object.point_count} />
-  ) : (
+  console.log(info);
+  return (
     <HoverTooltip
       x={x}
       y={y}
       description={object.description}
       name={object.name}
+      count={object.point_count}
+      cluster={object.cluster}
     />
   );
 }
@@ -64,11 +64,16 @@ const Map = (props: MapProps) => {
     }
   };
 
-  const onHover = () => (hoverInfo as any).objects && setHoverInfo;
+  const _onHover = (info: any) => {
+    console.log(info);
+    return !hoverInfo.objects && setHoverInfo;
+  };
+
+  const onHover = _onHover;
 
   const layer = new IconClusterLayer({
-    sizeScale: 40,
     onHover,
+    sizeScale: 40,
     id: props.id || 'icon-cluster',
     pickable: true,
   } as any);

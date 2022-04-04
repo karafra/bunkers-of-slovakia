@@ -21,7 +21,7 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <meta property="og:title" content="React Boilerplate Example App" />
+    <meta property="og:title" content="Bunkers of Slovakia" />
     <meta property="og:description" content="" />
     <meta
       property="og:image"
@@ -35,8 +35,29 @@
         height: 100vh;
         overflow: hidden;
       }
+
+
+    .tooltip {
+      pointer-events: none;
+      position: absolute;
+      z-index: 9;
+      font-size: 12px;
+      padding: 8px;
+      background: #000;
+      color: #fff;
+      min-width: 160px;
+      max-height: 240px;
+      overflow-y: hidden;
+    }
+
+    .tooltip.interactive {
+      pointer-events: all;
+      background: #fcfcfc;
+      color: #444;
+      overflow-y: auto;
+    }
     </style>
-    <title>React Boilerplate Example App</title>
+    <title>Bunkers of Slovakia</title>
     <meta name="description" content="" />
   </head>
   <body>
